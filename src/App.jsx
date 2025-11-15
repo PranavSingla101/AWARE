@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { SignedIn, SignedOut } from '@clerk/clerk-react'
 import LandingPage from './components/LandingPage'
 import Dashboard from './components/Dashboard'
+import EmergencyRequest from './components/EmergencyRequest'
 import './App.css'
 
 function App() {
@@ -24,6 +25,10 @@ function App() {
               </SignedOut>
             </>
           } 
+        />
+        <Route 
+          path="/emergency-request" 
+          element={<EmergencyRequest />}
         />
       </Routes>
     </BrowserRouter>
