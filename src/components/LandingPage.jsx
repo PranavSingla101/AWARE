@@ -4,6 +4,9 @@ import Navbar from './Navbar'
 import './LandingPage.css'
 
 function LandingPage() {
+  // Check for Clerk key with both naming conventions
+  const hasClerkKey = !!(import.meta.env.VITE_CLERK_PUBLISHABLE_KEY || import.meta.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY)
+
   return (
     <>
       <Navbar />
