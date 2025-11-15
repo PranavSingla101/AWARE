@@ -10,16 +10,7 @@ function App() {
       <Routes>
         <Route 
           path="/" 
-          element={
-            <>
-              <SignedOut>
-                <LandingPage />
-              </SignedOut>
-              <SignedIn>
-                <Navigate to="/dashboard" replace />
-              </SignedIn>
-            </>
-          } 
+          element={<LandingPage />}
         />
         <Route 
           path="/dashboard" 

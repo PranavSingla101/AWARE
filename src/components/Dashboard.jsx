@@ -1,9 +1,8 @@
-import { UserButton, useUser } from '@clerk/clerk-react'
 import { useState } from 'react'
+import Navbar from './Navbar'
 import './Dashboard.css'
 
 function Dashboard() {
-  const { user } = useUser()
   const [predictionData, setPredictionData] = useState({
     location: '',
     waterSource: 'tap',
@@ -71,17 +70,9 @@ function Dashboard() {
   }
 
   return (
-    <div className="dashboard">
-      <header className="dashboard-header">
-        <div className="header-content">
-          <h1 className="dashboard-title">AWARE Dashboard</h1>
-          <div className="header-actions">
-            <span className="user-greeting">Welcome, {user?.firstName || user?.emailAddresses[0]?.emailAddress}</span>
-            <UserButton afterSignOutUrl="/" />
-          </div>
-        </div>
-      </header>
-
+    <>
+      <Navbar />
+      <div className="dashboard">
       <main className="dashboard-main">
         <div className="dashboard-grid">
           {/* Prediction Form */}
@@ -271,6 +262,7 @@ function Dashboard() {
         </div>
       </main>
     </div>
+    </>
   )
 }
 

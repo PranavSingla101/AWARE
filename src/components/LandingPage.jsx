@@ -1,9 +1,12 @@
 import { SignInButton } from '@clerk/clerk-react'
+import Navbar from './Navbar'
 import './LandingPage.css'
 
 function LandingPage() {
   return (
-    <div className="landing-page">
+    <>
+      <Navbar />
+      <div className="landing-page">
       <div className="landing-container">
         <div className="hero-section">
           <h1 className="hero-title">
@@ -58,6 +61,7 @@ function LandingPage() {
         </div>
       </div>
     </div>
+    </>
   )
 }
 

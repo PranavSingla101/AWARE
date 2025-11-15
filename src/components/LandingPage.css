@@ -1,10 +1,11 @@
 .landing-page {
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 50%, #1e1b4b 100%);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 2rem;
+  padding-top: calc(2rem + 80px); /* Account for fixed navbar */
 }
 
 .landing-container {
@@ -58,18 +59,18 @@
   padding: 1rem 2rem;
   font-size: 1.1rem;
   font-weight: 600;
-  color: #667eea;
-  background: white;
+  color: #e2e8f0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border: none;
   border-radius: 12px;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
 }
 
 .sign-in-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
 }
 
 .sign-in-button:active {
@@ -89,20 +90,21 @@
 }
 
 .feature-card {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(30, 41, 59, 0.6);
   backdrop-filter: blur(10px);
   border-radius: 16px;
   padding: 2rem;
   text-align: center;
-  color: white;
+  color: #e2e8f0;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(148, 163, 184, 0.2);
 }
 
 .feature-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+  background: rgba(30, 41, 59, 0.8);
+  border-color: rgba(102, 126, 234, 0.4);
 }
 
 .feature-icon {
