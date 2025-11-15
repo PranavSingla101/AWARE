@@ -141,15 +141,73 @@ Create a `.env` file in the root directory:
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 ```
 
-## Next Steps
+## ML Model Integration
 
-To integrate with a real backend API:
+The dashboard is now connected to a FastAPI backend that serves the trained Random Forest model.
 
-1. Replace the mock prediction logic in `Dashboard.jsx` with actual API calls
-2. Set up your backend API endpoint
-3. Add error handling and loading states
-4. Implement real-time data updates
-5. Add data persistence
+### Backend Setup
+
+1. **Install Python dependencies:**
+```bash
+cd backend
+pip install -r requirements.txt
+```
+
+2. **Ensure the ML model is trained:**
+   - Train the model using the Jupyter notebook: `extract/AWARE_random_forest_updated.ipynb`
+   - The model will be saved to: `extract/rf_water_model.joblib`
+
+3. **Start the FastAPI backend:**
+```bash
+# Windows
+cd backend
+python main.py
+
+# Or use the start script
+backend\start.bat
+
+# Linux/Mac
+cd backend
+python main.py
+# Or
+chmod +x start.sh
+./start.sh
+```
+
+The API will run on `http://localhost:8000`
+
+### API Documentation
+
+Once the backend is running, visit:
+- **API Docs**: http://localhost:8000/docs (Interactive Swagger UI)
+- **Health Check**: http://localhost:8000/health
+
+### Model Inputs
+
+The dashboard form now collects all required inputs:
+- Temperature (°C)
+- Dissolved Oxygen (DO) (mg/L)
+- pH Level
+- Conductivity (µmhos/cm)
+- BOD (mg/L)
+- Nitrate (mg/L)
+- Fecal Coliform (MPN/100ml)
+- Total Coliform (MPN/100ml)
+
+### Running the Full Stack
+
+1. **Terminal 1 - Start Backend:**
+```bash
+cd backend
+python main.py
+```
+
+2. **Terminal 2 - Start Frontend:**
+```bash
+npm run dev
+```
+
+The dashboard will automatically connect to the ML model API for real predictions!
 
 ## License
 

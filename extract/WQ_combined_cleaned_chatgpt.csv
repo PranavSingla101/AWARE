@@ -1,0 +1,2640 @@
+SourceFile,StationCode,MonitoringLocation,State,State,Temp_Min,Temp_Max,DO_Min,DO_Max,pH_Min,pH_Max,Conductivity_Min,Conductivity_Max,BOD_Min,BOD_Max,Nitrate_Min,Nitrate_Max,FecalColiform_Min,FecalColiform_Max,TotalColiform_Min,TotalColiform_Max,FecalStrepto_Min,FecalStrepto_Max,Temp_Avg,DO_Avg,pH_Avg,Conductivity_Avg,BOD_Avg,Nitrate_Avg,FecalColiform_Avg,TotalColiform_Avg,FecalStrepto_Avg,pH_Risk,DO_Risk,BOD_Risk,Cond_Risk,Nitrate_Risk,TotalColiform_Risk,FecalColiform_Risk,FecalStrepto_Risk,Risk
+table_0.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 
+ 
+1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1001,RIVER BEAS AT U/S MANALI,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,2601,RIVER BEAS AT D/S MANALI,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,4444,"RIVER BEAS D/S OF WASTE PROCESSING FACILITY AT 
+MANALI","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,4037,RIVER BEAS D/S MANALSU NALLAH,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,3866,RIVER BEAS U/S BEFORE CONF. OF MANALSU NALLAH,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,2602,"RIVER BEAS, U/S KULLU","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,4445,"RIVER BEAS D/S OF  WASTE PROCESSING FACILITY AT 
+KULLU","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1002,RIVER BEAS D/S KULLU,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1003,RIVER BEAS D/S AUT,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1004,RIVER BEAS AT PANDOH DAM,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,2603,"RIVER BEAS, D/S PANDOH DAM","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1005,RIVER BEAS AT EXIT OF  DEHAR POWER HOUSE,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1550,"BEAS RIVER, U/S OF MANDI TOWN","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1006,RIVER BEAS D/S MANDI TOWN,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,2604,RIVER BEAS AT D/S JAISINGHPUR,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,1007,RIVER BEAS AT D/S ALAMPUR,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_0.csv,3855,"RIVER BEAS D/S NADAUN BRIDGE, VILL BHADOLI","HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1292,"RIVER BEAS AT PONG DAM ,PONG VILLAGE",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1009,RIVER BEAS AT D/S PONG DAM,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1008,RIVER BEAS AT D/S DEHRAGOPIPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4435,RIVER BEAS U/S SUJANPUR TIHRA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4436,RIVER BEAS D/S SUJANPUR TIHRA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4437,RIVER BEAS U/S NADAUM TOWN,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4438,"RIVER BEAS D/S NADAUN TOWN AFTER CONFLUENCE 
+OF MAAN KHAD",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4443,RIVER BEAS AT RAISON,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,5765,RIVER BEAS D/S NEW BAJAURA BRIDGE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,30083,RIVER BEAS AT TALWARA (PONG DAM),,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,30084,"RIVER BEAS AT D/S CHANGARWA VILLAGE, (PUNJAB)",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1693,"RIVER BEAS AT TALWARA H/W, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1694,"RIVER BEAS AT U/S PATHANKOT, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1010,"RIVER BEAS AT MIRTHAL BRIDGE, GURDASPUR",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1695,"RIVER BEAS D/S PATHANKOT, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1294,"RIVER BEAS AT 1KM.D/S OF EFFL. DISH. POINT AT 
+MUKERIAN , PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1696,"RIVER BEAS U/S GOINDWAL, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1697,"RIVER BEAS AT HARIKE, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1011,"RIVER BEAS AT G.T. ROAD UNDER BDG. NEAR 
+KAPURTHALA",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,1012,RIVER BEAS AT 100M D/S INDUST. DISCH. GOINDWAL,,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,4164,"RIVER BEAS RIVER, NR VILL KIRI AFGHANA, TEHSIL 
+BATALA, GURDASPUR",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,5504,RIVER BEAS AT  KARMOWALA  VILLAGE,,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,5505,RIVER BEAS AT  CHAMBA KALAN,,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_1.csv,5506,RIVER BEAS AT KAMBOH DAHIWALA,,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,3284,RIVER SINDH AT SONAMARG D/S,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,3285,RIVER SINDH AT WAIL BRIDGE,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,3286,RIVER SINDH AT DUDERHAMA,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,3287,"RIVER SINDH AT RANGIL, SRINAGAR",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4023,MANJHI KHAD U/S DHARAMSHALA OF KHANIYARA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4024,MANJHI KHAD D/S DHARAMSHALA AT CHETRU,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4025,MOL KHAD U/S PALAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4026,MOL KHAD D/S PALAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4038,RIVER TIRTHAN BEFORE CONF. TO RIVER SUTLEJ,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4424,"RAW WATER FOR LWSS OF NAUTI KHAD AT GUMMA 
+(BASANTPUR)",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4432,DHAULI KHAD AT CHARAN GANGA MEDI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4457,BANER KHAD U/S CHAMUNDA TEMPLE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4458,BANER KHAD D/S CHAMUNDA TEMPLE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4460,CHARAN KHAND U/S BHAGSUNAG,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4469,"GAJ  KHAD NEAR WATER SUPPLY SCHEME 
+DHARAMSHALA CANTT.",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4470,BATHER KHAD WATER SUPPLY SCHEME AT  DAL LAKE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4471,"NEUGAL KHAD NEAR WATER SUPPLY SCHEME AT 
+BANDLA, PALAMPUR",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,4488,RIVER RATTA BEFORE CONF. TO RIVER SIRSA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_10.csv,5489,"RIVER BHAWA KHAD AT RESERVIOR SITE OF ALLIAN 
+DUHANGAN HEP,PRINI,MANALI",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4750,"RIVER SUBARNAREKHA NEAR INTAKE WELL HATIA 
+RAILWAY",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4752,"RIVER SUBARNAREKHA NEAR OBERIA ROAD BRIDGE, 
+HATIA RANCH",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,30067,"RIVER SUBARNAREKHA AT BEHRAGORA ODISHA-
+JHARKHAND",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,30068,"RIVER SUBARNAREKHA AT GOPIBALLAVPUR (WEST 
+BENGAL)",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,30069,RIVER SUBARNAREKHA AT LAKHANNATH (ORISSA),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4086,"RIVER SUBARNAREKHA U/S HINDALCO IND LTD, MURLI 
+WORKS, CHHOTAMURI, RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4756,"RIVER SUBARNAREKHA AT RUCCA DAM, RUCCA, 
+RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,2423,RIVER BUDHABALANGA AT D/S OF BARIPADA TOWN,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,3943,RIVER BUDHABALANGA AT BALASORE U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,3942,"RIVER SONO AT KANAKDURGA ROAD NEAR REMUNA, 
+HATOGOND",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,2115,"RIVER TAPTI AT NEPA NAGAR 100 METRE D/S AFTER 
+MIXING PANDHAR NALLA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4753,"RIVER HARMU NEAR HARMU BRIDGE, HARMU, RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_100.csv,4754,"RIVER HARMU BEFORE METTING TO SWARNREKHA 
+RIVER",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,1491,"RIVER BHAGIRATHI AT GANGOTRI,",,UTTARAKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,5451,RIVER MANDAKINI AT KEDARNATH,,UTTARAKHAND  10.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,5452,RIVER ALAKNANDA AT BADRINATH,,UTTARAKHAND  13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,1484,"RIVER ALAKNANDA B/C TO RIVER MANDAKINI AT RUDRA 
+PRAYAG",,UTTARAKHAND  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,1485,"RIVER MANDAKINI B/C TO RIVER ALKALNADA AT 
+RUDRAPRAYAG,",,UTTARAKHAND  14.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,1486,"RIVER ALAKNANDA A/C OF RIVER MANDAKINI AND 
+RIVER ALAKNANDA  AT RUDRAPRAYAG",,UTTARAKHAND  14.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_12.csv,1487,"RIVER ALAKNANDA B/C TORIVER  BHAGIRATHI AT 
+DEVPRAYAG,",,UTTARAKHAND  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1488,"RIVER BHAGIRATHI B/C TO RIVER ALAKNANDA AT 
+DEVPRAYAG,DIST-TEHRI GARHWAL",,UTTARAKHAND  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1489,"RIVER GANGA AFTER CONFLUENCE OF RIVER 
+BHAGIRATHI AND RIVER ALAKNANDA AT DEVPRAYAG 
+,DIST-TEFRI GARHWAL",,UTTARAKHAND  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,5776,"RIVER GANGA AT  SWARG ASHRAM ,RISHIKESH",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1060,"RIVER GANGA U/S AT LAXMANJHULA,RISHIKESH",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,5777,,,"RIVER GANGA NEAR VISTHAPHIT COLONY, RISHIKESH  UTTARAKHAND  14.0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,10147,"RIVER GANGA D/S AT BAIRAAJ,RISHIKESH",,UTTARAKHAND  14.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,2725,"RIVER GANGA AFTER CONFLUENCE OF SONG NEAR 
+SATYANARAYAN TEMPLE D/S RAIWALA, DEHRADUN",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,10148,RIVER GANGA AT HAR-KI-PAURI GHAT,,UTTARAKHAND  14.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,3997,"RIVER GANGA U/S  AT ABINDUGHAT, DUDHIYABAD, 
+HARIDWAR",,UTTARAKHAND  16.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1061,"RIVER GANGA  D/S AT BALKUMARI MANDIR, AJEETPUR, 
+HARIDWAR",,UTTARAKHAND  17.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,5778,"RIVER GANGA NEAR BISHANPUR KUNDI, HARIDWAR",,UTTARAKHAND  18.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,2727,"UPPER GANGA CANAL D/S AT ROORKEE, HARIDWAR",,UTTARAKHAND  14.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,30005,RIVER GANGA AT SULTANPUR (UTTARAKHAND),,UTTARAKHAND  21.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,30006,RIVER GANGA AT BIJNOR (U.P.),,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,10150,"RIVER GANGA AT MADHYA GANGA BARRAGE, BIJNOR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,5708,"RIVER GANGA TIGRI GANGA GHAT, VILLAGE-TIGARI, 
+AMROHA",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1062,"RIVER GANGA AT D/S GARHMUKTESHWAR, U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,2488,"RIVER GANGA U/S, ANOOPSHAHAR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,2489,"RIVER GANGA D/S, ANOOPSHAHAR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,1145,"RIVER GANGA AT NARORA (BULANDSAHAR), U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,2490,"RIVER GANGA AT KACHHLA GHAT, ALIGARH",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_13.csv,10151,RIVER GANGA AT GHATIYAGHAT FARRUKABAD,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1063,"RIVER GANGA AT KANNAUJ U/S (NEAR MEHNDIGHAT 
+BRIDGE), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1066,"RIVER GANGA AT  DURJANPUR, KANNAUJ D/S, U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,5709,"RIVER GANGAÂ  NANAMAU GANGA BRIDGE, LUCKNOW 
+MOHAN-HASANGANJ- RASULABAD MARG, KARTI 
+AKBERPUR SENG",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1146,"RIVER GANGA AT BITHOOR (KANPUR), U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,10154,RIVER GANGA AT BATHING GHAT (BHARAOGHAT),,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1067,"RIVER GANGA AT KANPUR U/S (SHUKLAGANJ U/S), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,10155,RIVER GANGA AT D/S (SHUKLAGANJ),,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,10156,RIVER GANGA AT BATHING GHAT (GOLA GHAT),,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,10157,RIVER GANGA AT BATHING GHAT (JAJMAU BRIDGE),,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1068,"RIVER GANGA AT KANPUR D/S (JANA VILLAGE), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,5710,"RIVER GANGA PURANA RAJAPUR, RAJAPUR, KANPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,5711,"RIVER GANGA A/C PANDU RIVER AT MADEVESHWAR 
+BABA TAMPLE DEOMAI AHT.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1147,"RIVER GANGA AT DALMAU (RAI BAREILLY), U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,2498,"RIVER GANGA AT KALA KANKAR, RAEBARELI",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,2487,"RIVER GANGA AT KADAGHAT, KAUSHAMABI",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,5713,"RIVER GANGA AT GANGA BRIDGE .NH19, DHEEMI",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1046,"RIVER GANGA AT PRAYAGRAJ (RASOOLABAD), U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,1049,"RIVER GANGA AT PRAYAGRAJ D/S (SANGAM), U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_14.csv,5714,"RIVER GANGA B/CÂ  TAMSA RIVER AT PRACHIN 
+SHIVALAYA DUMDUMA GHAT",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10158,"RIVER GANGA A/C TAMSA RIVER, SIRSA, SON BARSA",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,2485,"RIVER GANGA U/S, VINDHYACHAL, MIRZAPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,2486,"RIVER GANGA D/S, MIRZAPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10153,RIVER GANGA AT CHUNAR,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1070,"RIVER GANGA AT VARANASI U/S NEAR VISHWASUNDARI 
+BRIDGE B/C DRAINS( NAGWA NALA, SAMNE GHAT 
+NALA,NAKHHI NALA)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1071,"RIVER GANGA AT VARANASI D/S , A/C RIVER  VARUNA , 
+U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,5715,"RIVER GANGAÂ  B/C GOMTI RIVER AT BALUA GHAT 
+BRIDGE, VARANASI",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10152,"RIVER GANGA A/C GOMTI RIVER, BHUSAULA",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,5716,"RIVER GANGAÂ  ZAMANIA GANGA BRIDGE , ZAMANIZ, 
+UP",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1073,"RIVER GANGA AT TARIGHAT (GHAZIPUR), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10113,"RIVER GANGA AT U/S JAIL GHAT, BUXAR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1074,RIVER GANGA CHUSA AT BUXAR,,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,2551,"RIVER GANGA AT BUXAR, RAMREKHAGHAT",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,3113,"RIVER GANGA AT D/S BUXAR NEAR VEER KUNWAR 
+SINGH ROAD BRIDGE",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10162,"RIVER GANGA AT ARA- CHAPRA ROAD BRIDGE 
+(KOIILWAR BARHARA-CHAPRA ROAD)",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,2564,"RIVER GANGA AT THE BALUGHAT, DORIGANJ, SARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10114,"RIVER GANGA AT MAA AMBIKA ASTHAN, AAMI, SARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1077,"RIVER GANGA AT DIGHA,  NEAR J P SETU, PATNA U/S",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,2552,"RIVER GANGA AT GANDHIGHAT, NIT  PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,10115,"RIVER GANGA AT GULABI GHAT, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,1079,"RIVER GANGA AT PATNA D/S (GANGA BRIDGE), 
+GAIGHAT, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,3122,"RIVER GANGA AT MALSALAMI, PATNA CITY, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_15.csv,4297,"RIVER GANGA AT KACHCHI-DARGAH-BIDUPUR NEAR 
+ROAD BRIDGE, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10122,"RIVER GANGA AT TRIVENI GHAT, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,2553,"RIVER GANGA AT KEWALA GHAT,FATUHA, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,4301,"RIVER GANGA AT BAKHTIYARPUR-TAJPUR BRIDGE ON 
+GANGA, ATHMALGOLA, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,3115,"RIVER GANGA AT UMA NATH MANDIR,BARH",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10130,"RIVER GANGA U/S OF M/S NTPC, BARH WATER INTAKE 
+POINT, BARH",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10131,"RIVER GANGA D/S OF M/S NTPC, BARH WATER INTAKE 
+POINT,PATHANICHAK, BINDTOLA BARH",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1817,"RIVER GANGA AT MOKAMA (U/S), MAHADEO ASTHAN, 
+PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1815,"RIVER GANGA AT MOKAMA (D/S), NEAR RAJENDRA 
+BRIDGE , SIMIRIYA GHAT",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,3123,"RIVER GANGA AT BARAHIYA, NEPALITOLA, MARANCHI, 
+HATHIDAH AT MOKAMA, PATNA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,3116,RIVER GANGA AT U/S MUNGER KASHATHARNI GHAT,,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1818,"RIVER GANGA AT MUNGER D/S, CREAMINATION GHAT",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,3117,"RIVER GANGA AT U/S AJGABINATH MANDIR 
+SULTANGANJ, BHAGALPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,2554,"RIVER GANGA D/S CREMINATION GHAT AT 
+SULTANGANJ, BHAGALPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10138,"RIVER GANGA AT CHAMPANAGAR, RASIDPUR,  
+BHAGALPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1819,"RIVER GANGA AT BHAGALPUR, OPP. KUPPA GHAT",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,4398,"RIVER GANGA AT WATER INTAKE POINT, BHAGALPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,3118,RIVER GANGA AT D/S BHAGALPUR NEAR BARARIGHAT,,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1816,"RIVER GANGA, JHAJGHAT AT KAHALGAON",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10144,RIVER GANGA U/S NEAR LCT GHAT,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10145,RIVER GANGA D/S NEAR JANTA GHAT,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,1059,"RIVER GANGA AT RAJMAHAL, BIHAR",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,10146,RIVER GANGA AT SANGI DALAN,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_16.csv,5162,"RIVER GANGA AT FARAKKA, MUSHIDABAD",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,10160,"RIVER GANGA AT BEHRAMPORE, (GORA 
+BAZAR),MURSHIDABAD",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1080,"RIVER GANGA AT BAHARAMPORE, MURSHIDABAD, 
+WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,10159,"RIVER GANGA AT BEHRAMPORE(KHAGRA), 
+MURSHIDABAD",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,2511,"RIVER NABADIP ON GANGA, GHOSHPARA NEAR 
+MONIPURGHAT,NADIA",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,2506,"RIVER TRIBENI ON GANGA, NEAR BURNING GHAT, 
+HOOGHLY",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1054,RIVER GANGA AT PALTA WEST BENGAL,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,10161,"RIVER GANGA AT PALTA, SHITALTALA,",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1472,"RIVER GANGA AT SERAMPORE, HOOGHLY,WEST 
+BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1053,"RIVER GANGA AT DAKSHMINESHWAR, KOLKATA, WEST 
+BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1471,RIVER GANGA AT HOWRAH-SHIVPUR WEST BENGAL,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1470,"RIVER GANGA AT GARDEN REACH, KOLKATA, WEST 
+BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1052,,,"RIVER GANGA AT ULUBERIA , HOWRAH,WEST BENGAL  WEST BENGAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1469,"RIVER GANGA AT DIAMOND HARBOUR, 24 PARGANAS 
+(S)WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_17.csv,1335,"RIVER GANGA AT PATIKALI NEAR DURGA CHAK WEST 
+BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1492,RIVER YAMUNA AT YAMUNOTRI,,UTTARAKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1493,RIVER YAMUNA AT HANUMANCHATTI,,UTTARAKHAND  10.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1494,RIVER YAMUNA AT U/S OF LAKHWAR DAM,,UTTARAKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30025,RIVER YAMUNA AT DAK PATHER (UTTARAKHAND),,UTTARAKHAND  17.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1490,"RIVER YAMUNA AT U/S DAKPATHER, DEHRADUN",,UTTARAKHAND  10.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30027,RIVER YAMUNA AT PONTA SAHIB (H.P),,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1553,RIVER YAMUNA U/S PAONTA SAHIB,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1554,RIVER YAMUNA D/S PAONTA SAHIB,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,4439,RIVER YAMUNA U/S SUN PHARMACEUTICALS,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,4440,RIVER YAMUNA D/S SUN PHARMACEUTICALS,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30028,"RIVER YAMUNA AT BURIYA U/S JAGADHARI, MANDOLI, 
+HARYANA",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30035,RIVER YAMUNA AT HATHNIKUND,,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1117,"RIVER YAMUNA AT HATHNIKUND, YAMUNANAGAR",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1496,"RIVER YAMUNA AT KALANAUR, YAMUNA NAGAR",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,4914,"RIVER YAMUNA AT MANGLAURA, KARNAL",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30032,"RIVER YAMUNA AT SONAULI ROAD, SHAMLI BORDER , 
+PANIPAT (HARYANA)",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,10004,RIVER YAMUNA AT KHOJKIPUR PANIPAT,,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30029,"RIVER YAMUNA AT SONIPAT, BAGHPAT 
+ROAD(HARYANA)",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1119,RIVER YAMUNA AT SONEPAT,,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,10005,"RIVER YAMUNA AT PALLA,SONEPAT",,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,10006,RIVER YAMUNA AT PALLA,,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,30026,RIVER YAMUNA AT PALLA (DELHI),,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_18.csv,1120,"RIVER YAMUNA AT PALLA, DELHI",,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,5098,RIVER YAMUNA AT WAZIRABAD,,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,5099,RIVER YAMUNA AT ISBT BRIDGE,,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,5100,RIVER YAMUNA AT ITO BRIDGE,,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1121,"RIVER YAMUNA AT NIZAMUDDIN, DELHI",,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1375,"RIVER YAMUNA AT OKHLA BRIDGE (INLET OF AGRA 
+CANAL), DELHI",,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1812,"RIVER YAMUNA AT OKHLA AFTER MEETING OF 
+SHAHDARA DRAIN, DELHI",,DELHI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,30030,"RIVER YAMUNA AT ASGARPUR VILLAGE,(YAMUNA 
+GHAT)U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,30031,RIVER YAMUNA AT HASANPUR,,HARYANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,2493,RIVER YAMUNA AT SHAHPUR,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,2495,"RIVER YAMUNA AT KESIGHAT, VRINDAVAN",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1123,"RIVER YAMUNA AT MATHURA U/S ,NEAR GAUGHAT U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,2494,"RIVER YAMUNA AT VISHRAMGHAT, MATHURA",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1124,"RIVER YAMUNA AT MATHURA D/S , NEAR SHAMSHAN 
+GHAT U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1125,"RIVER YAMUNA AT AGRA U/S, U.P.(KAILASH GHAT)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1126,"RIVER YAMUNA AT D/S OF AGRA, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1498,"RIVER YAMUNA AT BATESWAR, U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,10081,RIVER YAMUNA AT ETAWAH D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,10082,RIVER YAMUNA AT UDI,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_19.csv,1127,"RIVER YAMUNA AT ETAWAH, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,1867,"RIVER SUTLEJ BEFORE CONF.  WITH RIVER SPITI AT 
+KHAB",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,2611,RIVER SUTLEJ AFTER CONF. WITH RIVER SPIT AT KHAB,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,3872,RIVER SUTLEJ D/S TIDONG HEP,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4448,"RIVER SUTLEJ BEFORE CONFLUENCES WITH RIVER 
+TIDONG",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4449,"RIVER SUTLEJ AFTER CONFLUENCES WITH RIVER 
+TIDONG",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4452,"RIVER SUTLEJ BEFORE CONFLUENCES OF RIVER 
+BASPA",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,3871,RIVER SUTLEJ D/S POWER HOUSE KASHANG HEP,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,3870,"RIVER SUTLEJ AFTER CONF. OF RIVER BASPA AT 
+KARCHAM DAM",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,1389,RIVER SUTLEJ AT WANGTOO BRIDGE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4453,RIVER SUTLEJ AFTER CONFLUENCES OF RIVER BASPA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,3869,"RIVER SUTLEJ D/S TRT OF RAMPUR HYDEL ELECTRIC 
+PROJECT",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,1086,RIVER SUTLEJ AT U/S RAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,1087,RIVER SUTLEJ AT D/S RAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,1013,RIVER SUTLEJ AT U/S TATAPANI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4446,RIVER SUTLEJ U/S IANDFILL SITE RAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4447,RIVER STLUJ D/S LANDFILL SITE RAMPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_2.csv,4032,RIVER SUTLEJ D/S ACC BARMANA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,1499,"RIVER YAMUNA AT JUHIKA B/C WITH CHANBAL, 
+ETAWAH, U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,30034,RIVER YAMUNA AT ETAWAH,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,30033,"RIVER YAMUNA A/C OF CHAMBAL AT SHERGARH, 
+JUHIKA (U.P)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,2283,RIVER YAMUNA AT HAMIRPUR,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_20.csv,1069,"RIVER  YAMUNA  AT PRAYAGRAJ D/S (BALUA GHAT), 
+U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,1510,"RIVER TONS AT TIUNI  (HIMACHAL PRADESH/UTTRA 
+KHAND BORDER)",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,30023,RIVER TONS AT HARIPUR (U.K.),,UTTARAKHAND  16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,4027,RIVER GIRI D/S RAJGARH TOWN,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,4028,"RIVER GIRI D/S KALGIDHAR TRUST, BARU SAHIB",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,2621,"RIVER GIRI AT D/S YASHWANT NAGAR AFTER CONF. 
+WITH ASHWANI KHAD AT YASHWANT NAGAR-  NEAR 
+SHANI MANDIR",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,3876,"RIVER GIRI AFTER CONFLUENCE OF ASHWANI RIVER AT 
+VILLAGE MARYOG",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,2622,RIVER GIRI AT U/S CCI MINES AT VILLAGE NADI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,2623,RIVER GIRI D/S SATAUN,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_21.csv,3877,RIVER GIRI U/S LWSS AT SAINJ,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,3878,RIVER GIRI D/S LWSS AT SAINJ,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,3860,"RIVER GIRI D/S CEMENT CORPORATION OF INDIA, 
+RAJBAN AT BANGRAN BRIDGE",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4427,RIVER GIRI U/S CHAILLA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4441,"RIVER GIRI U/S PROPOSED SITE OF SRI RENUKAJI DAM 
+SITE.",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4442,"RIVER GIRI D/S PROPOSED SITE OF SRI RENUKAJI DAM 
+SITE NEAR BRIDGE AT DADAHU- RENUKAJI",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4473,RIVER GIRI D/S PROPOSED SITE OF RENUKA DAM,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,5292,"RIVER GIRI AT NIHARI, KOTKHAL",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,5764,"RIVER GIRI B/C WITH ASHWANI KHAD U/S OF WSS 
+YASHWANT NAGAR",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2617,RIVER PABBAR AT U/S DHAMBARI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2618,RIVER PABBAR AT U/S ROHRU,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2619,RIVER PABBAR D/S SWARAKUDDU,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4039,RIVER PABBAR U/S HATKOTI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,5488,RIVER PABBAR AT  HATKOTI RESERVOIR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,5767,RIVER ANDHRA B/C TO RIVER PABBAR AT CHIRGAON,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2620,"ASHWANI KHAD U/S OF YASHWANT NAGAR BEFORE 
+CONF. WITH RIVER GIRI AT YASHWANT NAGAR",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2626,RIVER BATTA  U/S PAONTA AT KISHANPURA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,2627,RIVER BATTA BEFORE CONFLUENCE TO YAMUNA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4428,"ASHWANI KHAD U/S OF WEIR SITE OF WTP NEAR 
+ASHWANI BRIDGE",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_22.csv,4429,"ASHWANI KHAD AFTER CONFLUENCE OF LIFT NALLAH 
+NEAR DOGRHA BRIDGE",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,4461,"ASHWANI KHAD D/S OF VILLAGE SADHUPIL, TEHSIL 
+KANDAGHAT, DISTRICT SOLAN.",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,4479,"ASHWANI KHAD U/S OF  SADHUPUL VILLAGE  (NEARBY 
+800 METERS U/S OF THE BRIDGE)",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,4431,"SHIKARI KHAD BEFORE CONFLUENCE TO RIVER 
+PABBAR NEAR HRTC ROHRU BUS STAND",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,30037,RIVER BANGANGA AT U/S IDRISHPUR (U.K.),,UTTARAKHAND  21.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,30038,"RIVER BANGANGA AT D/S SHUKRATAL (BEFORE 
+CONFLUENCE OF LAKSAR DRAIN )",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10099,RIVER HINDON AT MAHESHPUR D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10102,RIVER HINDON AT MOHAN NAGAR U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10103,RIVER HINDON AT MOHAN NAGAR D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10106,RIVER HINDON AT GHAZIABAD U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10100,RIVER HINDON AT BARNAWA U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10101,RIVER HINDON AT BARNAWA D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1483,"RIVER HINDON AFTER CONFL. WITH R. KRISHNA & KALI 
+NEAR BINAULI TOWN, PURA MAHADEV, MEERUT, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,2496,"RIVER HINDON AT SARDHANA BUDHANA ROAD, VILLAGE 
+BAPARSI, MEERUT",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1357,"RIVER HINDON AT SAHARANPUR D/S, AT MAHESHPUR 
+.DEOBAND  U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1358,"RIVER HINDON AT GHAZIABAD D/S KULESHRA GB 
+NAGAR, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10104,RIVER HINDON AT NOIDA U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,10105,RIVER HINDON AT NOIDA D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1477,RIVER KALINADI AT U/S OF MUZAFFAR NAGAR U.P.,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1478,"RIVER KALINADI AT D/S OF MUZAFFAR NAGAR, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,4606,RIVER KEN NEAR ROAD BRIDGE AT PANNA,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_23.csv,1356,"RIVER BETWA BEFORE CONF. YAMUNA AT HAMIRPUR, 
+U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,30079,"RIVER BETWA DOWNSTREAM AT SUKMA-DUKMA DAM, 
+DIST-JHANSI (U.P.)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,30080,"RIVER BETWA AT KANJIA ROAD BRIDGE, KANJIA 
+DIST.ASHOK NAGAR (M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,1614,"RIVER BETWA NEAR WATER SUPPLY  INTAKE WELL , 
+VIDISHA( M.P)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,1614,"RIVER BETWA NEAR WATER SUPPLY  INTAKE WELL , 
+VIDISHA( M.P)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2107,"RIVER BETWA AT U/S AT MAHUTA GHAT, AGASOD, BINA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2108,"RIVER BETWA AT M/S J.P. THERMAL POWER, BINA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2119,"RIVER BETWA AT NAYAPUR D/S MANDIDEEP INDL. AREA 
+NO.1,DIST.RAISEN",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2121,"RIVER BETWA NEAR ROAD BRIDGE, BHOJPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2122,RIVER BETWA NEAR W/S INTAKE WELL POINT RAISEN,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2124,"RIVER BETWA AT CHARANTIRGHAT, VIDISHA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2125,"RIVER BETWA D/S AFTER MIXING OF RIVER BAIS AT 
+VIDISHA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3832,RIVER BETWA AT U/S NEAR ROAD BRIDGE ORCHHA,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2953,"RIVER KALI SINDH AT ANICUT OF M/S CFCL GADEPAN, 
+KOTA, RAJASTHAN",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,2956,"RIVER KALI SINDH AT BAROD ROAD BRIDGE, KOTA, 
+RAJASTHAN",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3310,"RIVER CHAMLA AT W/S INTAKE POINT BADNAGAR, 
+UJJAIN",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3313,"RIVER KARIYARI U/S NEAR M/S UTCL BELA CEMENT 
+PLANT,VILL.SONARA , REWA,",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3314,"RIVER KARIYARI,D/S, NEAR M/S J.P. 
+CEMENT,VILL.NAUBASTA, REWA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3319,"RIVER NEWAJ AT W/S INTAKE POINT, SHUJALPUR, 
+UJJAIN",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3320,"RIVER NEWAJ  U/S NEAR W/S INTAKE  POINT, RAJGARH",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_24.csv,3833,"RIVER BEBUS AT RAJGHAT DAM, SAGAR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,5538,"RIVER KALIASOT DAM OUTLATE NEAR DAM 
+GATE,BHOPAL",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,5539,"RIVER KHAN RAMWASA STOP DAM,UJJAIN",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,5540,"RIVER MANDAKINI , ORIGIN POINT SATI ANSUIYA 
+,CHITRAKOOT",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,5544,"RIVER CHAMBAL PALI NEAR ROAD BRIDGE ,SHEOPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,2955,"RIVER CHAMBAL ENTERING IN RAJASTHAN AT GANDHI 
+SAGAR DAM, RAWATBHATA,CHITTORGARH",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1288,"RIVER CHAMBAL AT KOTA U/S (PHED INTAKE POINT. 
+NEAR KOTA  BARRAGE), RAJASTHAN",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1289,"RIVER CHAMBAL AT RANGPUR KOTA D/S (2 KM. FROM 
+CITY), RAJASTHAN",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,10029,"RIVER CHAMBAL AT KESHORAIPATAN U/S, NEAR SHRI 
+RAJESHWAR MAHADEV TEMPLE, BUNDI",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,10030,"RIVER CHAMBAL AT KESHORAIPATTAN D/S NEAR 
+AMBEDKAR NAGAR, BUNDI",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,4769,"RIVER CHAMBAL, NEAR CHAMBAL BRIDGE, DHOLPUR 
+TO MURENA ROAD, NH-3",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,30086,"RIVER CHAMBAL AT GWALIOR ROAD BRIDGE, UDI, 
+ETAWAH DIST.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,30060,"RIVER CHAMBAL AT FISH FARM NEAR GANDHISAGAR 
+DAM (MP & RJASTHAN)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1418,"RIVER CHAMBAL AT GANDHI SAGAR DAM, RAMPURA, 
+M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1365,"RIVER CHAMBAL AT NAGDA U/S (WATER INTAKE POINT) 
+M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1366,"RIVER CHAMBAL AT NAGDA D/S, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,1609,"RIVER CHAMBAL AT DHOLPUR,",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,3308,"RIVER CHAMBAL AT JANAPAWA, FROM ORIGIN POINT, 
+INDORE",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_25.csv,4607,RIVER CHAMBAL AT ITAWA ROAD BRIDGE BHIND,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2724,"RIVER SUSWA AT MATHURAWALA, DEHRADUN",,UTTARAKHAND  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2734,"RIVER BHELLA U/S OF KASHIPUR,US NAGAR",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2735,"RIVER BHELLA D/S OF LOHIYA BRIDGE  KASHIPUR,US 
+NAGAR",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2732,"RIVER DHELLA U/S AT KASHIPUR MORADABAD ROAD 
+BRIDGE,US NAGAR",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2733,"RIVER DHELLA D/S AT THAKURDWARA ALIGANJ 
+ROAD,US NAGAR",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30004,RIVER DHELA AT ADAMPUR,,UTTARAKHAND  20.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2731,"RIVER KOSI AT KASHIPUR BAJPUR ROAD 
+BRIDGE,KASHIPUR,US NAGAR",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30002,"RIVER KOSI AT DADIYAL BRIDGE, UTTRAKHAND",,UTTARAKHAND  21.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2728,RIVER GOLA AT HALDWANI,,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2729,RIVER KICHHA AT KICHHA U.S. NAGAR,,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30003,RIVER KICCHA AT PULL BHATTA,,UTTARAKHAND  20.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2730,"RIVER PILKHAR AT BILASPUR, RAMPUR,US NAGAR",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30000,"RIVER PILKHAR AT RAMPUR, BHOT(U.P)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30001,"RIVER BAHELA AT BADLI VILLAGE LOHIYA BRIDGE , 
+TANDA (U.P.)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2736,"RIVER NANDOUR U/S AT SITARGANJ INDUSTRIAL AREA, 
+US NAGAR",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,2737,"RIVER NANDOUR D/S AT SITARGANJ INDUSTRIAL AREA, 
+US NAGAR",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,3438,"RIVER KALYANI  U/S OF  PANTNAGAR INDUSRIAL AREA, 
+US NAGAR",,UTTARAKHAND  13.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,3439,"RIVER KALYANI  D/S OF PANTNAGAR INDUSTRIAL AREA, 
+US NAGAR",,UTTARAKHAND  12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_27.csv,30077,"RIVER RAMGANGA AT ROAD BRIDGE  SHERKOT, 
+DIST.BIJNAUR (U.P.)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,30078,"RIVER RAMGANGA AT 
+KALAGARHBARRAGE,KALAGARH,DIST,PAUDHIGADHWAL  
+(U.K.)",,UTTARAKHAND  21.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,30077,"RIVER RAMGANGA AT ROAD BRIDGE  SHERKOT, 
+DIST.BIJNAUR (U.P.)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1064,"RIVER RAMGANGA AT KANNAUJ (BEFORE CONF.), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1065,"RIVER KALINADI NEAR  GUMATIYA VILLAGE ,KANNAUJ 
+(BEFORE CONF.), U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1480,"RIVER KALINADI AT U/S OF GULAOTHI TOWN IN 
+BULANDSAHAR, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,2497,"RIVER KALI EAST AT KHARKHODA-PARIKSHIT GARH 
+ROAD, VILL. KOL, MEERUT",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,2482,"RIVER VARUNA AT RAMESHWAR, VARANASI",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,2483,RIVER VARUNA B/C WITH GANGA AT VARANASI,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,2502,"SHUKRA TAL GHAT (CONFLUENCE OF BANGANGA AND 
+SALONI RIVER), MUZAFFARNAGAR,",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1361,"RIVER SAI AT UNNAO AFTER DRAIN OUTFALL, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,2484,"RIVER SAI AT JALALPUR, JAUNPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1072,"RIVER GOMTI AT VARANASI, RAJWARI U.P",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1350,"RIVER GOMTI AT SITAPUR U/S DADNAMAU GHAT, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1351,"RIVER GOMTI AT LUCKNOW U/S AT WATER INTAKE 
+POINT, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1352,"RIVER GOMTI AT LUCKNOW D/S PIPRAGHAT , U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,1353,"RIVER GOMTI AT JAUNPUR D/S, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,10083,RIVER GOMTI AT NEEMSAR U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,10084,RIVER GOMTI AT NEEMSAR D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_28.csv,10085,RIVER GOMTI AT BHATPUR U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10086,RIVER GOMTI AT BHATPUR D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10087,RIVER GOMTI AT GAUGHAT U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10088,RIVER GOMTI AT GAUGHAT D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10089,RIVER GOMTI AT MOHMEAK U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10090,RIVER GOMTI AT MOHMEAK D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10091,RIVER GOMTI AT PIPRAGHAT U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10092,RIVER GOMTI AT PIPRAGHAT D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10093,RIVER GOMTI AT GANGAGANJ U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10094,RIVER GOMTI AT GANGAGANJ D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10095,RIVER GOMTI AT SULTANPUR U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10096,RIVER GOMTI AT SULTANPUR D/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,10097,RIVER GOMTI AT JAUNPUR U/S,,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1363,"RIVER RAPTI AFTER CONFL. OF R. HONIN NR. 
+DOMINGARH RLY BRIDGE, GORAKHPUR, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,4517,"RIVER RAPTI AT RAJGHAT, GORAKHPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1076,"RIVER GHAGHARA NEAR CHAPRA, RIVILGANJ, MANJHI, 
+SARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1355,"RIVER GHAGHARA AT TURTIPAR,DEORIA D/S, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,2492,"RIVER GHAGHRA AT BARHALGANJ, GORAKHPUR",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1359,"RIVER RIHAND AT RENUKUT U/S, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1360,"RIVER RIHAND AT RENUKUT D/S, U.P.",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_29.csv,1143,"RIVER TONS AT CHAKGHAT, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,1144,"RIVER TONS AT MADHAVGARH, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,3328,"RIVER TONS AT MADHAVGARH, NEAR PHED W/S INTAKE 
+POINT, SATNA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,3853,"RIVER TONS AT BASAMAN MAMA TEMPLE, NEAR PURWA 
+FALL, TEHSIL- 
+SEMARIYA, DIST- REWA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,4609,"RIVER TONS AT M.P-U.P BOUNDARY, BEFORE MIXING 
+RIVER BELAN CHAKGHAT REWA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,5543,"River BeeharÂ Khthuliya Intake Well Point ,Rewa",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,4611,RIVER GAMBHIR AT DAM SITE UJJAIN,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,1607,"RIVER BASLI GOHAD DAM, GOHAD, M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,2120,"RIVER KALIASOT NEAR ROAD BRIDGE, MANDIDEEP",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,2142,"River KALISINDH  NEAR ROAD BRIDGE SARANGPUR, 
+RAJGARH",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_30.csv,4621,RIVER HATHNI NANPUR FATA DAM ALIRAJPUR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,3125,"RIVER GANDAK GOPALGANJ PIPRAKOTHI ROAD BRIDGE 
+(DUMARIA GHAT)",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,2568,"RIVER GANDAK AT REWAGHAT, MUZAFFARPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,10163,"RIVER GANDAK AT ROAD BRIDGE, U/S HAJIPUR, 
+VAISHALI (BORDER OF SARAN & VAISHALI)",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,10126,"RIVER GANDAK AT KONHARA GHAT, OPPOSITE 
+HARIHARNATH MANDIR,SONEPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_31.csv,1078,"RIVER GANDAK  AT SONEPUR NEAR HARIHARNATH 
+TEMPLE",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,1823,"RIVER DHOS AT SAHARGHAT, MADHUBANI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4405,"RIVER DHOS AT MADHWAPUR, MADHUBANI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,2559,"RIVER RAMREKHA AT HARINAGAR, WEST CHAMPARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3130,"RIVER RAMREKHA AT U/S HARINAGAR, WEST 
+CHAMPARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3132,"RIVER BAGMATI AT MUZAFFARPUR- SITAMARHI ROAD 
+BRIDGE, SITAMARHI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3135,"RIVER BAGMATI AT DARBHANGA, SAMASTIPUR ROAD 
+BRIDGE, DARBHANGA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,2563,"RIVER MANUSMAR AT RIGA, UPHRAULIA, SITAMARHI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3131,"RIVER MANUSMAR U/S (RIGA), SITAMARHI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4402,"RIVER MANUSMAR AT PARSHURAMPUR, RIGA - 
+BELSAND ROAD, SITAMARHI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,2555,"RIVER PUNPUN NEAR PATNA FATUHA ROAD BRIDGE, 
+FATUHA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3119,"RIVER UNPUN NEAR PUNPUN ROAD BRIDGE, PUNPUN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3120,"RIVER PUNPUN AT KINJAR ROAD BRIDGE, JEHANABAD-
+ARWAL BORDER , JEHANABAD",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4406,"RIVER PUNPUN AT OBRA, AURANGABAD",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4293,"RIVER KOHRA  U/S RAJ GHAT, MAJHAULIA, WEST 
+CHAMPARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4294,"RIVER KOHRA  D/S NEAR RAILWAY BRIDGE, MAJHAULIA, 
+WEST CHAMPARAN",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4399,"RIVER HARHA AT BAGHA, LAURIYA ROAD BRIDGE",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4400,RIVER LAKHANDEI U/S SITAMARHI  AT MEHANDI NAGAR,,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4401,"RIVER LAKHANDEI  D/S SITAMARHI AT PARORI ROAD 
+BRIDGE",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4404,"RIVER GANGI AT ARA, D/S",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,1824,"RIVER PARMAR AT JOGBANI, ARARIA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,2117,"RIVER BICHIA,GOVINDGARH ROAD BRIDGE ,NEAR 
+INTAKE POINT,REWA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,1433,"RIVER SANKH AT TIGRA RESERVOIR, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,1075,"RIVER SONE AT KOILWAR,  NEAR MANDIR, BHOJPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,3127,"RIVER SONE AT BAHIYARA, BHOJPUR",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_33.csv,4913,RIVER SONE AT ARWAL NEAR BALUGHAT (SAHAR),,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3128,"RIVER SONE AT NASIRIGANJ DAM, ROHTAS",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,4298,"RIVER SONE AT ROAD BRIDGE-DEHRI-ON-SONE, 
+ROHTAS",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,2556,"RIVER SONE AT INDRAPURI DAM, DEHRI ON SONE, 
+ROHTAS",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,4407,"RIVER SONE AT WATER INTAKE POINT BHARTIYA RAIL 
+BIJALI CO. LTD (BRBCL) NAVINAGAR, AURANGABAD",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3121,"RIVER SONE AT BANJARI  NEAR BANJARI NEAR SUN 
+TEMPLE KALYANPUR, ROHTAS",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,30081,"RIVER SONE AT ROAD BRIDGE CHOPAN,DIST-
+SONEBHADRA (U.P.)",,"UTTAR 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,30082,"RIVER SONE UPSTREAM TOWARDS DEORA, DIST- 
+SINGRAULI (M. P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,4604,"RIVER RIVER SONE AT VILLAGE- KHAIRPUR,(KUDHERI) 
+M.P- U.P.BOUNDARY, DISTT SIDHI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3834,"RIVER SONE AT CHITAWAL NEAR ROAD BRIDGE 
+CHITRANGI, DIST 
+SINGROULI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3836,"RIVER SONE ON KACHAN DAM NEAR IMILYA NORTH 
+COAL MINES VILL MAJHOULI, DIST SINGROULI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3851,"RIVER SONE NEAR BHANVARSEN ROAD BRIDGE AFTER 
+CONFLUENCE OF BANAS RIVER, DIST SIDHI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3329,"RIVER SONE AT CHURHAT,DISTT.SIDHI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3852,"BANSAGAR CANAL AT SON RIVER, WATER SAMPLE AT 
+BAGHWAR VILLAGE, NEAR TOL PLAZA, DIST SIDHI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,1612,"RIVER SONE AT DEVLOAD OUT LET OF BANSAGAR DAM, 
+M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,1371,"RIVER SONE AT AMLAI, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3846,"RIVER SONE AT JARWAHI NEAR ROAD BRIDGE, 
+SHAHDOL",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3327,"RIVER SONE AT BHATURAGHAT NEAR ROAD BRIDGE, 
+AMLAI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,1142,"RIVER SONE AT CHACHAI, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,1610,"RIVER SONE AT ORIGIN AMARKANTAK, M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_34.csv,3835,"GOPAD AT NIGARI, SARAI DIST, SINGROULI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,1611,"RIVER JOHILA NEAR NAROJABAD NEAR UMARIA ROAD 
+BRIDGE, M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2116,RIVER BEEHAR D/S NEAR FOREST OFFICE,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,1608,"RIVER SINDH AT DABRA, M.P",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,3306,"RIVER CHOUPAN U/S AT  
+VIJAYPUR  , GUNA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,3307,"RIVER CHOUPAN D/S AFTER NFL NALLA,  AT VIJAYPUR 
+,GUNA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,3311,"RIVER JAMUNI AT BARIYAGHAT U/S NEAR INTAKE 
+POINT, TIKAMGARH",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2396,RIVER JUMAR AT KANKE DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4085,"RIVER JUMAR AT BIT MESRA, RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2401,RIVER AJAY AT MASANJORE DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2389,RIVER KONAR AT KONAR DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2390,RIVER KONAR AT TENUGHAT DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,3554,"RIVER KONAR NEAR SWANG COAL WASHERY, BOKARO",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4000,RIVER GARGA NEAR TELMUCHO BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2381,RIVER BOKARO AT ZARANGDIH BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4490,RIVER KURWA DUMKA WATER INTAKE POINT,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4745,"RIVER KHARKHAI BEFORE MEETING SWARNREKHA 
+RIVER",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4747,"RIVER KOINA RIVER, MANOHARPUR, W.S",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2567,RIVER KAMALA AT BENIPATTI (MADHUBANI),,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2569,"RIVER KAMALA AT  GAUSAGHAT, DARBHANGA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,3133,"RIVER KAMALA AT KAMALA GHAT NEAR BARRAGE  
+ATJAYNAGAR , MADHUBANI",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,4299,"RIVER KAMALA (BIHAR)  AT JEEWACH GHAT, 
+DARBHANGA",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_35.csv,2572,"RIVER MAHANANDA AT THAKURGANJ, KISHANGANJ 
+ROAD BRIDGE, KISHANGANJ",,BIHAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,1336,"RIVER BARAKAR AT ASANSOL (WATER INTAKE POINT), 
+BURDWAN,WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2388,RIVER BARAKAR AT TILAYA DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2392,RIVER BARAKAR AT MAITHAN DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,1331,"RIVER DAMODAR AT DISHERGARH VILL.(NR.BIHAR-
+WEST BENGAL BORDER) , BURDWAN,WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,1332,"RIVER DAMODAR AT D/S OF IISCO AFTER 3RD OUTFALL 
+AT DHENNA VILLAGE, BURDWAN,WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,1333,"RIVER DAMODAR AT NARAINPUR AFTER CONFL. OF 
+NUNIA NALLAH, BURDWAN,WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,1334,"RIVER DAMODAR NEAR MUJHER MANA VILLAGE AFTER 
+CONF. OF TAMLA NALLAH, BURDWAN,WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2378,RIVER DAMODAR D/S BHAIRABI AT RAJRAPPA,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2380,RIVER DAMODAR AT RAMGARH ROAD BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2382,RIVER DAMODAR AT PHUSRO ROAD BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2383,RIVER DAMODAR U/S JAMADOBA WATER WORKS,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2384,"RIVER DAMODAR AT DOMGARH WATER WORKS D/S 
+SINDRI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2391,RIVER DAMODAR AT PANCHET DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,2527,"RIVER WATER INTAKE POINT FOR BURDWAN TOWN, 
+BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,3553,RIVER DAMODAR NEAR TELMUCHO BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,3555,"RIVER DAMODAR NEAR ZARANGDIH BRIDGE, BOKARO",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,3556,"RIVER DAMODAR AT CONFLUENCE OF BOKARO & 
+DAMODAR NEAR ZARANGDIH BRIDGE, BOKARO",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,3557,"RIVER DAMODAR NEAR BERMO RAILWAY STATION, 
+BOKARO",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,4083,"RIVER DAMODAR NEAR ROHINI PROJECT, NK AREA, PO-
+DAKRA, RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,30066,RIVER DAMODAR AT SINDRI,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,30065,RIVER DAMODAR AT DISHERGARH (WEST BENGAL),,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_36.csv,10107,"RIVER DAMODAR AT ANDAL U/S, BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,10108,"RIVER DAMODAR AT ANDAL D/S, BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,10109,"RIVER DAMODAR AT ASANSOL U/S, BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,10110,"RIVER DAMODAR AT DURGAPUR U/S, BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,10111,"RIVER DAMODAR AT RANIGANJ D/S, BURDWAN",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,4738,"RIVER JAMUNIA NEAR LOHAPATTI BRIDGE, MAHUDA, 
+DHANBAD",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,4739,"RIVER KATRI RIVER, NEAR BHATINDA FALL, AT- 
+TETENGABAD, MOONIDIH, DHANBAD",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,4742,"RIVER GALUDIH BARRAGE, GALUDIH, E.S",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2517,"RIVER MATHABHANGA, GOBINDAPUR, NADIA",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,1764,"RIVER CHURNI D/S OF RANAGHAT TOWN, WEST 
+BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2518,"RIVER CHURNI, MAJHADIA, NADIA",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2541,"RIVER DWARAKESHWAR WATER INTAKE POINT FOR 
+BANKURA TOWN ON DWARAKESHWAR, BANKURA",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2514,"RIVER JALANGI, D/S OF KRISHNA NAGAR, NADIA",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,1337,"RIVER RUPNARAYAN BEFORE CONFL. TO GANGA NEAR 
+GEONKHALI,MEDINIPOREÂ€, WEST BENGAL",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2509,"RIVER D/S OF RUPNARAYAN AT KOLAGHAT, NEAR 
+KOLAGHAT RAIL BRIDGE NO.3,MEDINIPOREÂ€",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2531,"RIVER U/S OF TARAPITH ON DWARKA AT SADHAK 
+BAMDEB GHAT, BIRBHUM",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2532,"RIVER D/S OF TARAPITH ON DWARKA, SATIGHAT",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2549,"RIVER U/S OF BINDYADHARI AT HAROA BRIDGE, 24 
+PARGANAS(N)",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2550,"RIVER D/S OF BIDYADHARI AT MALANCHA BURNING 
+GHAT",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2507,"RIVER D/S OF KANSI AT MIDNAPORE, NEAR NEW 
+HANUMAN MANDIR, GANDHIGHAT, MEDINIPORE(W)",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2525,"RIVER MAHANANDA D/S, RAMGHAT, DARJEELING",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,1946,"RIVER MAHANANDA AT SILIGURI, DARJEELING",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,4727,RIVER MECHI AT NEHALJOTE,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,4722,RIVER BALASON AT KHAPRAIL MORE,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_37.csv,2508,"RIVER D/S OF SILABATI AT GHATAL, MEDINIPORE(W)",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1019,RIVER SUTLEJ AT U/S HEAD WORKS ROPAR,,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1020,"RIVER SUTLEJ AT 100M D/S BUDHA NALA CONFL., 
+LUDHIANA",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1022,"RIVER SUTLEJ AT BRIDGE HARIKE, AMRITSAR",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,10025,"RIVER SUTLEJ AT JALANDHAR U/S (PEERU SHAH KA 
+DARGAH)",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,10026,RIVER SUTLEJ AT JALANDHAR D/S (MALSIAN BRIDGE),,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1021,"RIVER SUTLEJ AT BOAT BDG. DHARMKOTNAKODAR 
+ROAD, JALANDHAR",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1381,"RIVER SUTLEJ AT D/S EAST BEIN, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1691,"RIVER SUTLEJ AT U/S HUSSANIWALA - H/W FEROZEPUR, 
+PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_4.csv,1692,"RIVER SUTLEJ AT D/S HUSSANIWALA-H/W FEROZEPUR, 
+PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2869,RIVER BARAK AT SENAPATI,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2875,"RIVER BARAK AT N.H. 53, TAMENGLONG",,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,1423,"RIVER BARAK RIVER AT PANCHAGRAM , ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,4649,RIVER MANU AT MANUBAZAR,,TRIPURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,4650,RIVER MANU AT CHAILENGTA,,TRIPURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2877,RIVER KHUGA (TUITHA) DAM ON KHUGA RIVER,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2878,RIVER THONGJAOROK  AT THONGJAOROK BRIDGE,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2242,"RIVER KUSHIARA AT KARIMGANJ, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,1925,"RIVER KHUGA (TUITHA)  AT RENGKAI, 
+CHURACHANDPUR",,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2880,RIVER NAMBUL AT BISHNUPUR,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3107,RIVER DIHING AT MIAO (U/S OF NOA DIHING),,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3095,"RIVER SENKI  AT CHANDRANAGAR, ITANAGAR, (U/S OF 
+PACHIN RIVER)",,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3096,RIVER DIKRONG AT NIRJULI (U/S),,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3777,"RIVER DORIKA NEAR MSW DUMPING SITE, SIVASAGAR",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3105,"RIVER GAI NADI, NEAR HSS LIKABALI (D/S)",,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,1261,"RIVER SUBANSIRI AT GERUKAMUKH (BEFORE 
+CONFLUENCE WITH RIVER BRAHMAPUTRA)",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3097,RIVER SUBANSIRI AT GERUKAMUKH,,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,3098,"RIVER SIANG AT RANAGHAT, NEAR RCC BRIDGE, 
+PASIGHAT(U/S)",,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,4342,"RIVER BARALIA (NEAR CHATPUJA GHAT) RANGIA, 
+KAMRUP",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,4343,RIVER BURALIA (NEAR BRIDGE ALONG NH-31) NALBARI,,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2888,RIVER CHATHE AT BRIDGE NEAR CIHSR,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2891,DZUCHA RU,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2889,DZUDZA RU BELOW HYDRO PROJECT STATION,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_43.csv,2892,KHA RU ADJOINING MUNICIPAL COUNCIL SWM SITE,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2228,"GELA BEEL AT DERGAON, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,4719,RIVER TORSA D/S OF GHUGHUMARI,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,4724,RIVER TORSA AT HASIMARA,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2238,"RIVER BEKI AT NH-37 CROSSING AT BARPETA ROAD, 
+ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3108,RIVER BERENG AT CHOWKHAM,,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,1527,"RIVER BHOGDOI AT JORHAT , ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3769,"RIVER BHOGDOI (PUJADUBI GHAT) INTAKE POINT OF 
+URBAN WATER SUPPLY, JORHAT",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,1258,"RIVER JHANJI AT N.H. CROSSING JORHAT, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2239,"RIVER SANKOSH DHUBRI, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2890,SANUO RU BELOW NEW SECRETARIAT,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2233,"RIVER BOGINADI NEAR BRIDGE NH-52, LAKHIMPUR, 
+ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3372,"RIVER RILANG AT MAWKYRWAT,",,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3377,RIVER MYNTANG AT NARTIANG,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3378,RIVER MYNTANG AT MYNSO,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3380,RIVER DAMRING (KRISHNAI RIVER) AT RESUBELPARA,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3381,"RIVER MANDA (DUDHNOI RIVER) AT JAMGE,",,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,3382,RIVER MANDA (DUDHNOI RIVER) AT WAGEASI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2050,"RIVER TLAWNG  MID STREAM, REIEK KAI, AIZAWL,U/S 
+OF TLAWNG BRIDGE",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2051,"RIVER TLAWNG MID STREAM, REIEK KAI, AIZAWL,D/S OF 
+TLAWNG BRIDGE",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_44.csv,2053,"RIVER TUIRIAL  MID STREAM, TUIRIAL VILLAGE,D/S OF 
+TUIRIAL BRIDGE",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3709,RIVER TLAWNG  SAIRANG,,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3754,"RIVER TLAWNG  D/S, RIMAWI VENG, BAIRABI,KOLASIB 
+DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,4121,"RIVER TLAWNG D/S,SUARPUI, BAIRABI HEPP DAM SITE, 
+BAIRABI,KOLASIB DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3734,"RIVER TLAWNG U/S, ZOBAWK VILLAGE, LUNGLEI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3736,"RIVER TLAWNG U/S, PIALTHLENG ZOTLANG, LUNGLEI",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3710,"RIVER, SERLUI STREAM, REIEK KAI, 
+NEAR PHE WATER TREATMENT PLANT, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3711,"VAIPUANPHO STREAM, AILAWNG, MAMIT DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3712,"TUIKUAL STREAM, D/S, REIEK KAI, NEAR PHE WATER 
+TREATMENT PLANT, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3713,"SAKHISIH STREAM, 
+MISSION VENGTHLANG, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3714,"RIVER TUIRIAL UPSTREAM, SUMSUIH,AIZAWL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3715,"RIVER TUIRIAL MID STREAM, AIRFIELD, U/S OF TUIRIAL 
+WASTE MANAGEMENT CENTRE,AIZAWL DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,4118,"RIVER TUIRIAL D/S, HEPP DAM, SAIPUM, KOLASIB DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3717,"RIVER TUIRIAL MID STREAM, AIRFIELD, D/S OF TUIRIAL 
+WASTE MANAGEMENT CENTRE,AIZAWL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,2052,"RIVER TUIRIAL MID STREAM, TUIRIAL VILLAGE,U/S OF 
+TUIRIAL BRIDGE",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3716,"DAMDIAI STREAM, AIRFIELD,NEAR TUIRIAL WASTE 
+MANAGEMENT CENTRE,AIZAWL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3718,"CHITE STREAM, ARMED VENG, 
+NEAR MINI SPORTS COMPLEX, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3719,"TUIRINI RIVER, SELING, SAITUAL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3720,"TUIVAWL RIVER, KEIFANG VILLAGE, NEAR TUIVAWL 
+BRIDGE,SAITUAL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3721,"LAWIBUAL STREAM, 
+I.T.I VENG, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3724,"CHALLUI STREAM, LENGPUI, AIZAWL DIST",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3735,"MAT RIVER, DAWN VILLAGE, NEAR MAT 
+BRIDGE,LUNGLEI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3740,"SAIKAH STREAM, LAWNGTLAI",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3744,"CHHIMTUIPUI RIVER, KAWLCHAW,  NEAR CHHIMTUPUI 
+BRIDGE, SAIHA DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_45.csv,3746,"TUIKUM RIVER, 
+NEAR PHE WATER TREATMENT PLANT, SERCHHIP",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3747,"SESAH STREAM, DINTHAR, SERCHHIP",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3749,"RIVER PHE RESERVIOR (LAHMUN RIVER), MIZO VENG, 
+MAMIT",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3750,"RIVER TEIREI  BAWNGVA, MAMIT DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3751,"RIVER TUT  DAPCHHUAH, MAMIT DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3752,"RIVER TUICHHUAHEN STREAM, 
+NEAR PHE WATER TREATMENT PLANT, KOLASIB",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3756,"RIVER TIAU,  ZOKHAWTHAR, 
+NEAR TIAU BRIDGE,CHAMPHAI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,3757,"RIVER TUIPUI NEAR PHE WATER TREATMENT PLANT, 
+CHAMPHAI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,5500,RIVER LEIMAKHONG  NEAR KANTO AWANG LEIKAI,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,5501,"TUPUL RIVER  AT TUPUL BRIDGE, NONEY",,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,5502,RIVER  KONGBA AT IRONG,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,5503,RIVER KONGBA  AT IRANPHAM,,MANIPUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4110,RIVER NONGAL AT NANGALBIBRA,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4113,RIVER DAMRING AT BOLDAMGRE,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4114,"RIVER CHITE STREAM, NEAR SIPMIU'S STP, 
+BETHLEHEM VENGTHLANG, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4115,"RIVER TUIKUAL STREAM, U/S, 
+MIZORAM NEW CAPITAL COMPLEX , DINTHAR, AIZAWL",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4118,"RIVER TUIRIAL D/S,  HEPP DAM, SAIPUM, KOLASIB DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4119,"RIVER SERLUI  D/S, SERLUI 'B' HEPP DAM, 
+BILKHAWTHLIR, KOLASIB DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4120,"RIVER TEIREI  D/S 
+NR CONFLUENCE PT WITH TLAWNG RIVER, SAPMARA, 
+BAIRABI,KOLASIB DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4122,"RIVER KHAWTHLANGTUIPUI ,TLABUNG, LUNGLEI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4123,"RIVER, TUIPUI D  DARZOKAI, HNAHTHIAL DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4125,"RIVER TUIPUI  U/S, 
+NR CONFLUENCE PT KEILUNGLIAH STREAM, 
+VENGTHAR, CHAMPHAI",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4130,"RIVER NGENGPUI STREAM,NR KALADAN MULTI MODAL 
+RD, LAWNGTLAI DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,4132,"RIVER VANTAWNG WATER FALL, THENZAWL, SERCHHIP 
+DIST.",,MIZORAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_46.csv,2232,"RIVER KOHORA AT N.H. CROSSING, KOHORA, ASSAM 
+(BRAHMAPUTRA)",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4304,RIVER SDERKARIAH AT SOHRA (CHERRAPUNJEE),,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4305,RIVER LAITRYNGEW AT LAITRYNGEW,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4306,RIVER WAHKHLEK KHLEK AT SAITSOHPEN,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4307,RIVER WAHREW AT MAJAI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4308,RIVER UMNGI AT JAKREM,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4309,RIVER UMNGI AT UMPUNG,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4310,RIVER RWIANG AT RWIANG,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4311,RIVER KALIPAI AT RYMBAI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4312,RIVER KMAI UM AT RYMBAI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4313,RIVER WAIKHRWI AT MOOPALA,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4314,"RIVER KWAI AT SUTNGA, JALAPHET",,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4315,RIVER LUKHA AT KHADDUM,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4316,RIVER MYNTDU AT MIHMYNTDU,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,3379,RIVER MYNTDU AT LESHKA,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1631,RIVER MYNTDU JOWAI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1428,RIVER KYRHUHKHLA KHLIEHRIAT,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4317,RIVER LAMU AT LESHKA,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4318,RIVER LYNRIANG  AT LESHKA POWER HOUSE,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4319,RIVER UMIUREM AT LALE,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4320,RIVER KUPLI AT LOOSKI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4321,RIVER KUPLI AT KHANDONG,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4322,RIVER THLU UMWI AT THLU UMWI,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1633,RIVER SIMSANG WILLIAMNAGAR,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1801,"RIVER TEESTA AFTER CONFLUENCS OF RIVERS 
+LACHENCHU AND LACHUNGCHU AT CHUNGTHANG",,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1807,"RIVER TEESTA AFTER CONFLUENCS WITH RANICHU AT 
+SINGTAM",,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1808,"RIVER TEESTA AFTER CONFLUENCS WITH RONGPOCHU 
+AFTER MEETING THE INDUSTRIAL EFFLUENTS FROM 
+THE TOWN RANGPO",,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1809,RIVER TEESTA AT MELLI DOWNSTREAM MELLI,,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,1947,"RIVER TEESTA AT SEVOKE, SILIGURI, DARJEELING",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_47.csv,4723,RIVER TEESTA AT JALPESH,,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2236,"RIVER KAPILI AT DHARMTUL BRIDGE, NH-31, 
+MORIGAON, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2523,"RIVER KAROLA, D/S OF JALPAIGURI, NEAR MIN 
+BHAWAN, JALPAIGURI",,WEST BENGAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2068,"RIVER KATHAKAL U/S AT MATIJURI, DIST. HAILAKANDI, 
+ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2061,"RIVER KHARSANG B/C WITH BURIDIHING NEAR 
+KHARSANG (ASSAM-ARUNANCHAL BORDER), ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2059,"RIVER KOLONG AT MARIGAON, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2237,"RIVER KOLONG AT U/S OF ANANDARAM DEKIAL PHUKAN 
+BRIDGE, NAGAON, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2229,"RIVER KUNDLI AT KUNDLI/ SAPAKHOWA, SADIA, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3417,"RIVER MANU AT MANUGHAT, CONFL POINT OF 
+CHAWMANU CHARRA & MANU RIVER, DHALAI",,TRIPURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3418,"RIVER MANU AT KAILASHAHAR D/S, NORTH TRIPURA",,TRIPURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3419,"RIVER MANU AT KUMARGHAT, NORTH TRIPURA",,TRIPURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3367,RIVER NONBAH AT NANGSTOIN MARKET,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3368,RIVER NONBAH AT PHOTSOHSAT,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3369,RIVER KYNSHI AT SOHIONG,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3370,RIVER KYNSHI AT NANGKHNUM,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3371,RIVER KYNSHI AT RANIKOR,,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3373,"RIVER WAH BLEI AT RIANGDO,",,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3374,"RIVER WAH BLEI AT SDAD DKHAR,",,MEGHALAYA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3099,RIVER LOHIT AT ALUBARI (D/S),,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3797,RIVER MANAS (SANTOSHPUR) NEAR LENGTISINGA,,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2060,"RIVER MANAS  AT NH-31 CROSSING, BARPETA 
+DISTRICT, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,1803,"RIVER MANEY KHOLA AT BURTUK NEAR ARMY BASE 
+CAMP, 4 KM U/S OF GANGTOK",,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,1804,"RIVER MANEY KHOLA AFTER CONFLUENCS  WITH RAY 
+KHOLA AT ADAMPOOL AFTER MEETING WASTE OF STP, 
+GANGTOK",,SIKKIM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2894,"RIVER MILAK AT BORBORA WARD, TULI",,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,2895,"RIVER MILAK AT PAPER NAGAR, TULI",,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3100,RIVER NAMCHIK AT KHARSANG,,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_49.csv,3109,"RIVER NOA DIHING AT NAMSAI, (D/S OF DIHING)",,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,4059,"RIVER RAVI AT RANJIT SAGAR DAM, AT PANAGAR 
+(BASOHIL)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,4060,RIVER RAVI AT DAM-SITE AT THEIN,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,4061,"RIVER RAVI AT LAKHANPUR, 1 KM D/S FROM 
+MADHOPUR BRIDGE",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,1089,RIVER RAVI U/S CHAMBA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,1088,RIVER RAVI AT U/S MADHOPUR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_5.csv,2614,RIVER RAVI  CHAMERA-I RESERVOIR,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,3103,"RIVER PACHIN AT NAHARLAGUN (BELOW BARAPANI 
+BRIDGE), (D/S OF RIVER SENKI)",,"ARUNACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,2065,"RIVER PAGLDIA NEAR NALBARI TOWN, DIST. NALBARI, 
+ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,2235,"RIVER PANCHNOI AT NH-52 CROSSING, ORANG, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,1531,"RIVER MORA BHARALI AT TEZPUR, ASSAM",,ASSAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,1929,"RIVER CHATHE NEAR ICAR, MEDZIPHEMA",,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_50.csv,1930,RIVER DZU AT DZU BRIDGE,,NAGALAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1232,"RIVER MAHI (D/S) CONF WITH R. CHAP (UNDER 
+SAGWARA-SARHI RD. BDG.), RAJASTHAN",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,30061,"RIVER MAHI AT GAMMON BRIDGE NEAR PADLA CHOWKI,  
+BANSWARA (MP & RJASTHAN)",,RAJASTHAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,4,RIVER MAHI AT SEVALIA,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,5,RIVER MAHI AT VASAD,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1229,"RIVER MAHI NEAR RAJASTHAN BORDER AT KADANA 
+DAM,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1230,"RIVER MAHI AFTER CONF. WITH ANAS AT PARDI 
+(BANASWADA),",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1231,"RIVER MAHI AT VIRPUR,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1863,RIVER MAHI AT UMETA BRIDGE,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1864,RIVER MAHI AT MUJPUR,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,3206,"RIVER MAHI AT SHERKHI BRIDGESINDHROT BRIDGE-
+VADODARA",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,4415,RIVER MAHI AT DODKAVILLAGE : PRATHAMPURA,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,30050,"RIVER MAHI ABOUT 500 METERS D/S OF KADANA DAM 
+NEAR BRIDGE, PANCHMAHAL, GUJARAT  (RAJASTHAN 
+AND GUJARAT)",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_51.csv,1233,"RIVER MAHI AT BADNAWAR, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1221,"RIVER SABARMATI AT KHEROJ BRIDGE,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1223,"RIVER SABARMATI AFTER CONF. WITH MESHWA AT 
+VAUTHA (NEAR DHOKLA),",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1409,"RIVER SABARMATI AT RAILWAY BRIDGE AHMEDABAD,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1866,"RIVER SABARMATI AT HANSAOL BRIDGE,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1,RIVER SABARMATI AT DHAROI DAM,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,2,RIVER SABARMATI AT AHMEDABAD AT V.N. BRIDGE,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1408,"RIVER SABARMATI AT VILL. MIROLI TALUKA DASCROI, 
+AHMEDABAD,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,2075,"RIVER SABARMATI AT DHAROI DAM, DIST. 
+MEHSANA.RIVER SABARMATI TA DHAROI DAM, TAL : 
+SATALASANA, DIST : MEHSANA",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,10014,"RIVER SABARMATI AT AHMEDABAD U/SHANSOL, 
+AHMEDABAD",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,10015,"RIVER SABARMATI AT AHMEDABAD D/SVILL: 
+MIROLI,TALUKA DASCROI, AHMEDABAD,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,30042,"RIVER SABARMATI AT KHEROJ BRIDGE, SABARKANTHA, 
+AMBAJI HIGHWAY, KHEROJ, GUJARAT (RAJASTHAN  AND 
+GUJARAT)",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1482,"RIVER SABARMATI AT MAHUDI JAIN TEMPLE, 150 KM. 
+FORM ORIGIN,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_54.csv,1407,"RIVER SABARMATI AT GANDHI NAGAR CHILODA 
+BRIDGE, LEKAWADA,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1242,"RIVER NARMADA NEAR ORIGIN POINT AT AMARKANTAK 
+M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,4578,RIVER NARMADA AT PUSKAR DAM AMARKANTAK,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1241,RIVER NARMADA AT MANDLA NEAR ROAD BRIDGE. M.P.,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,2106,RIVER NARMADA AT NEMAWAR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,4595,"RIVER NARMADA 500 M.D/S NEAR JAIN MANDER 
+VILLAGE NEMAWAR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,45,RIVER NARMADA AT MANDLESHWAR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1239,"RIVER NARMADA AT BADWANI, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1431,"RIVER NARMADA AT MAHESHWAR, M. P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1234,"RIVER NARMADA  NEAR SHAHGANJ GUEST HOUSE  
+DISTRICT SEHORE (M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,2112,"RIVER NARMADA NEAR MORTAKKA BRIDGE, BADWAH",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,44,RIVER NARMADA AT SETHANIGHAT,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_57.csv,1235,"RIVER NARMADA AT HOSHANGABAD 100 METER D/ S 
+AFTER CONFLUENCE OF SPM NALLA M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,2113,"RIVER NARMADA NEAR PUNASA DAM, PUNASA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,1430,RIVER NARMADA AT D/S OF OMKARESHWAR M.P.,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,3322,"RIVER NARMADA AT MANDLA, NEAR SHAMSHANGHAT, 
+JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,2099,"RIVER NARMADA AT LALPUR, JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,3323,"RIVER NARMADA AT TILWARAGHAT,  JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,3324,"RIVER NARMADA AT PANCHWATIGHAT, BEFORE MIXING 
+WITH BAWANGANGA RIVER, JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,3325,"RIVER NARMADA AT SARSWATIGHAT, AFTER MIXING 
+WITH BAWANGANGA RIVER, JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,2118,RIVER NARMADA RIVER AT D/S OF KAPILDHARA,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,2123,RIVER NARMADA AT KORIGHAT HOSHANGABAD,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,3847,RIVER NARMADA AT DHARAMPURI,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4577,"RIVER  NARMADA AT CHANDANGHAT NEAR ROAD 
+BRIDGE, DINDORI",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4578,RIVER NARMADA AT PUSKAR DAM AMARKANTAK,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4579,"RIVER NARMADA AT DINDORI D/S AFTER MIXING TO 
+CITY DOMESTIC NEAR JOGOTIKARIA GHAT",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4580,"RIVER NARMADA NEAR BHAIRAV TAMPLE AT 
+SHHASTRADHARA MANDLA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4581,"RIVER NARMADA NEAR ROAD BRIDGE (D/S BARGI DAM) 
+JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4582,"RIVER NARMADA AT JAMTARA, NEAR RAILWAY BRIDGE",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4583,"RIVER NARMADA NEAR ROAD BRIDGE JHANSINGHAT 
+JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4584,"RIVER NARMADA N.H. 44 NEAR ROAD BRIDGE AT 
+BARMAN. JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4585,"RIVER NARMADA, BARMANGHAT, 100 MDS OF 
+MAINGHAT",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_58.csv,4586,"RIVER NARMADA S.N. 44 NEAR ROAD BRIDGE NEAR 
+JHILKOLI NARSINGPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4587,"RIVER NARMADA AT NEAR ROAD BRIDGE, SANDIA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4588,"RIVER NARMADA  AT UP- STREAM OF VILLAGE JAIT 
+NEAR NARYANAPURA DISTRICT SEHORE (M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4589,RIVER NARMADA AT D/S OF VILL. JAIT,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4590,"RIVER NARMADA AT UP-STREAM  BEFORE 
+CONFLUENCE OF RIVER TAWA NEAR BANDRABHAN 
+DISTRICT SEHORE M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4591,"RIVER NARMADA AT DOWN-STREAM AFTER 
+CONFLUENCE OF RIVER TAWA NEAR 
+RAMNAGAR,DISTRICT SEHORE (M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4592,"RIVER NARMADA AT BUDHNIGHAT, BUDHNI DISTRICT 
+SEHORE( M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4593,"RIVER NARMADA AT DOWN-STREAM OF TEXTILE UNIT 
+VILLAGE. HOLIPURA BUDNI DISTRICT SEHORE (M.P.)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4594,"RIVER NARMADA AT BEFOR CONFLU. OF RIVER JAMNER 
+VILL. NEMAWAR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4596,RIVER NARMADA AT HANUWANTIA DIST. KHANDWA,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4597,"RIVER NARMADA AT U/S OMKAREWHWAR DAM 
+KHANDWA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4598,RIVER NARMADA RIVER AT DHARESHWAR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4599,RIVER NARMADA NEAR W/S INTAKE JALLOD,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4600,"RIVER NARMADA RIVER AT SHAHASTRADHARA 
+(JALKOTI)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4601,RIVER NARMADA AT KHALGHAT,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4602,RIVER NARMADA RIVER AT SEMALDA U/S OF BARWANI,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4603,RIVER NARMADA AT KOTESHWAR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,4605,"RIVER NARMADA AT KAKRANA, INTERSTATE BOUNDRY, 
+ALIRAJPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,30048,"RIVER NARMADA AT NAVAGAM,  NEAR GORA COLONY, 
+KEVADIA, GUJARAT (GUJARAT AND MADHYA PRADESH)",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_59.csv,7,RIVER NARMADA AT GARUDESHWAR,,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_60.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_60.csv,1244,"RIVER NARMADA AT PANETHA,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_60.csv,1245,"RIVER NARMADA AT CHANDOD,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_60.csv,1981,"RIVER NARMADA AT ZANOR (NTPC), BHARUCHRIVER 
+NARMADA AT ZANOR (NTPC), BHARUCH",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_60.csv,1243,"RIVER NARMADA AT BHARUCH, ZADESHVAR,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,9,RIVER TAPI AT NEPANAGAR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,10,RIVER TAPI AT BURHANPUR,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1250,RIVER TAPI AT HATNUR M.P.,,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1466,"RIVER TAPI AT VILLAGE KHEDI, NEAR AMARAWATI ROAD 
+BRIDGE , BETUL",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,46,"RIVER TAPI AT UKAI, SHERULA BRIDGE",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1247,"RIVER TAPI AT MANDAVI,",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1983,"RIVER TAPI NEAR BARDOLI (KAPP BRIDGE) 
+BARDOLIKAKRAPAR,SURAT",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,47,"RIVER TAPI AT KATHORE, (NH-8 BRIDGE)RIVER TAPI AT 
+KATHORE, (NH-8 BRIDGE) U/S OF SURAT CITY",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1248,"RIVER TAPI AT SURAT U/S KATHORE,RIVER TAPI NEAR 
+LIMDESHWAR MAHDEV AT KATHOR",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,2071,"RIVER TAPI AT ONGC BRIDGE AT SURAT, DIST. 
+SURATHAZIRA,SURAT",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,30045,"RIVER TAPI AT KUKURMUNDA BRIDGE, NIZHAR ROAD, 
+NEAR VILLAGE KUKURMUNDA, GUJARAT 
+(MAHARASHTRA AND GUJARAT)",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,30044,"RIVER TAPI AT PRAKASHA, (MAHARASHTRA)",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,30043,"RIVER TAPI AT AJNAD, (MAHARASHTRA)",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1251,"RIVER TAPI  AT U/S, BHUSAWAL,VILLAGE. BHUSAWAL 
+RAILWAY COLONY, TALUKA. BHUSAWAL, DISTRICT. 
+JALGAON.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1313,"RIVER TAPI AT AJNAD VILLAGE, VILLAGE.AJNAD , 
+TALUKA. RAVER, DISTRICT.JALGAON.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_62.csv,1314,"RIVER TAPI AT UBAD VILLAGE NEAR GUJRATBORDER, 
+VILLAGE. UBAD, TALUKA. SHAHADA, DISTRICT. 
+NANDURBAR.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,3203,"RIVER AMRAVATI AT VILLAGE DADHAL , TA 
+ANKLESHWAR, BHARUCHNR RAILWAY BRIDGE, AT 
+VILLAGE DHADHAL , TA: ANKLESHWAR, DIST BHARUCH",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2666,"RIVER GOMAI  D/S. OF SHAHADA, VILLAGE- 
+SHAHADA,TALUKA- DHULE,DISTRICT- DHULE.",,MAHARASHTRA  17.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2659,"RIVER BURAI  BEFORE CONFLUENCE TO TAPI RIVER, 
+VILLAGE- MUKUDAS, TALUKA- DHULE, DISTRICT- DHULE.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2070,"RIVER KIM AT SAHOL BRIDGE, OLPAD HANSOT ROAD, 
+DIST. SURATSAHOL, OLPAD HANSOT ROAD, SAHOL 
+BRIDGE,SURAT",,GUJARAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2127,"RIVER DENWA NEAR SARNI, ROAD BRIDGE",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,1252,"RIVER GIRNA AT JALGAON AT INTAKE OF GIRNA PUMP 
+HUOSE, VILLAGE- GIRNA PUMP HOUSE AREA, TALUKA- 
+JALGAON, DISTRICT- JALGAON.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,1253,"RIVER GIRNA AT MALEGAON ROAD BRIDGE, VILLAGE. 
+MALEGAON, TALUKA. MALEGAON, DISTRICT. NASHIK.",,MAHARASHTRA  28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,1907,"RIVER  RANGAVALI  AT D/S OF NAVAPUR NEAR 
+RANGAVALI BRIDGE, VILLAGE- NAVAPUR, TALUKA- 
+NAVAPUR, DISTRICT- NANDURBAR.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2674,"RIVER MOR  NEAR PADALASHE, VILLAGE- 
+PADALASHE,TALUKA- JALGAON, DISTRICT- JALGAON.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2718,"RIVER WAGHUR AT- SAKEGAON BEFORE CONFLUENCE 
+WITH TAPI RIVER, VILLAGE- SAKEGAON, TALUKA- 
+JALGAON, DISTRICT- JALGAON.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2684,"RIVER PANZARA NEAR PANZARAKAN SSK LTD, VILLAGE- 
+PANZARA,TALUKA- DHULE, DISTRICT- DHULE.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,1913,"RIVER PURNA AT DHUPESHWAR AT U/S OF MALKAPUR 
+WATER WORKS, MALKAPUR, DIST.AKOLA",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2155,"RIVER PURNA AT D/S OF CONFLUENCE OF MORNA & 
+PURNA RIVER AT ANDURA VILLAGE, VILLAGE-ANDURA, 
+TALUKA- BALAPUR, DISTRICT - AKOLA.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2695,"RIVER PEDHI  NEAR ROAD BRIDGE AT DADHI- PEDHI 
+VILLAGE, VILLAGE- DADHI- PEDHI, TALUKA- BHATKULI, 
+DISTRICT- AMRAVATI.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_63.csv,2700,"RIVER PURNA  NEAR ACHALPUR- AMRAVATI ROAD 
+BRIDGE, VILLAGE- ASEGAON,TALUKA- CHANDUR 
+BAZAR, DISTRICT- AMRAVATI.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1851,"RIVER MAHANADI AT SIHAWA, ORIGIN POINT OF RIVER 
+MAHANADI",,CHHATTISGARH  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1264,"RIVER MAHANADI AT RUDRI RESERVOIR U/S AT 
+RUDRI,DHAMTARI",,CHHATTISGARH  21.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1099,"RIVER MAHANADI AT RAJIM,NEAR ROAD BRIDGE 
+CHHATISGARH.",,CHHATTISGARH  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1852,,,"RIVER MAHANADI AT ARRANG, NEAR GANDHI BRIDGE  CHHATTISGARH  21.0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1100,RIVER MAHANADI AT KHAROD,,CHHATTISGARH  21.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1282,"RIVER MAHANADI AT SHEORINARAYAN VILLAGE D/S 
+NEAR ROAD BRIDGE",,CHHATTISGARH  20.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1467,"RIVER MAHANADI AFTER CONFL. OF RIVER MAND,NEAR 
+BALPUR VILLAGE.",,CHHATTISGARH  20.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1101,"RIVER MAHANADI AT INTERSTATE BOUNDRY, NEAR 
+SURJGARH VILLAGE",,CHHATTISGARH  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1281,RIVER MAHANADI AT HIRAKUD RESERVOIR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,30063,RIVER MAHANADI AT HIRAKUND (ODISHA),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1270,RIVER MAHANADI AT SAMBALPUR U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1271,RIVER MAHANADI AT SAMBALPUR D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,2405,RIVER  MAHANADI AT  SAMBALPUR FD/S AT HUMA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1272,"RIVER MAHANADI (AFTER CONFL. WITH R. ONG ) AT 
+SONEPUR U/S",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1274,"RIVER MAHANADI  (AFTER CONFL. WITH R. TEL) AT 
+SONEPUR D/S",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,2404,"RIVER MAHANADI AT POWER CHANNEL D/S NEAR 
+BURLA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,2406,"RIVER MAHANADI AT MUNDALI (WATER INTAKE POINT 
+OF BHUBANESWAR CITY)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,3887,"RIVER  MAHANADI AT SAMBALPUR FD/S  AT 
+SHANKARMATH",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1275,RIVER MAHANADI AT TIKARPADA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1276,RIVER MAHANADI AT NARSINGHPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1277,RIVER MAHANADI AT CUTTACK U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_64.csv,1278,RIVER MAHANADI AT CUTTACK D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,3888,"RIVER MAHANADI AT POWER CHANNEL U/S NEAR 
+BURLA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,3890,"RIVER MAHANADI AT CUTTACK FD/S AT 
+GATIRAUTAPATNA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,2407,"RIVER MAHANADI AT PARADEEP U/S (BEFORE 
+INDUSTRIAL ACTIVITY AT PARADEEP)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,1639,RIVER MAHANADI AT PARADEEP D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,4990,MAHANADI MUHANA NORTH (5 KM FROM SHORE),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,4991,MAHANADI MUHANA SOUTH (5 KM FROM SHORE),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,4992,MAHANADI MUHANA / ESTUARY,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_65.csv,4994,MAHANADI MUHANA (5 KM FROM SHORE),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,1266,RIVER SEONATH AT SHIMGA NEAR ROAD BRIDGE,,CHHATTISGARH  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,1845,"RIVER SEONATH WATER SUPPLY WELL, DURG, 
+CHHATISGARH.",,CHHATTISGARH  2.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,3166,"RIVER SEONATH AT JHINGHRI VILLAGE, A/C OF SAMODA 
+NALLA, CHHATISGARH.",,CHHATTISGARH  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,3167,"RIVER SEONATH  AT MOHAD, RAJNANDGAON",,CHHATTISGARH  2.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,2403,RIVER BHEDEN BEFORE CONFLUENCE WITH IB RIVER,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_66.csv,1265,"RIVER KHAROON AT BHATAGAON  NEAR WATER 
+SUPPLY INTAKEWELL RAIPUR",,CHHATTISGARH  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1846,"RIVER KHAROON B/C KHAPRI NAHLA RAIPUR 
+ROAD,CHHATTISGARH",,CHHATTISGARH  2.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1847,,,"RIVER KHAROON A/C KHAPRI NAHLA,CHHATTISGARH  CHHATTISGARH  2.4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1853,"RIVER KHAROON AT VILLAGE BENDRI, NEAR WATER 
+SUPPLY INTAKEWELL",,CHHATTISGARH  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1105,"RIVER HASDEO UP STREAM OF HASDEO BANGO HYDEL 
+POWER STATION STATION MACHADOLI KORBA",,CHHATTISGARH  24.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1106,RIVER HASDEO AT U/S OF CHAMPA CHHATTISGARH,,CHHATTISGARH  20.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,3165,"RIVER HASDEO 100 METER DOWNSTREAM AFTER 
+CONFLUENCE OF DENGUR NALLAH NERA C.S.E.B. EAST 
+GUEST HOUSE, KORBA, CHHATISGARH.",,CHHATTISGARH  24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,3169,"RIVER HASDEO AT DRINKING WATER INTANK WELL OF 
+MUNICIPAL CO. KORBA (BEFORE TREATMENT ) AT 
+LOHADIA VILLAGE,",,CHHATTISGARH  24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,3170,"RIVER  HASDEO DRINKING WATER INTAKE WELL OF 
+MUNICIPAL CO. KORBA AFTER TREATMENT PLANT AT 
+VILLAGE  KOHADIA KORBA",,CHHATTISGARH  24.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1267,RIVER IB AT SUNDARGARH,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1268,RIVER IB AT JHARSUGUDA (INTAKE),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1269,RIVER IB AT BRAJARAJNAGAR (INTAKE) D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1300,RIVER IB AT BRAJARAJNAGAR U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,2409,"RIVER SERUA AT CUTTACK FD/S (SERUA) AT 
+SANKHATRASA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1279,RIVER KUAKHAI AT BHUBANESWAR U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1280,RIVER DAYA AT BHUBANESWAR D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,2410,RIVER KUAKHAI AT BHUBANESWAR FU/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1640,RIVER BIRUPA AT CHOUDWAR D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1848,"RIVER ARPA D/S OF BILASPUR CITY AT CHECK DAM 
+OUTLET NEAR DEORI KHURD, BILASPUR",,CHHATTISGARH  21.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1849,RIVER KELO  U/S URDANA VILLAGE,,CHHATTISGARH  15.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,1850,"RIVER KELO  D/S  LAHANGAPALI BRIDGE MIDMIDA 
+VILLAGE",,CHHATTISGARH  15.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_67.csv,2411,"RIVER DAYA AT BHUBANESWAR FD/S ( 2 KM AFTER 
+CONFLUENCE OF GANGUA NALLAH WITH DAYA)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3894,RIVER DAYA AT GELAPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3895,RIVER DAYA AT KANAS,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3891,RIVER KATHAJODI AT CUTTACK U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,1301,RIVER KATHAJODI AT CUTTACK D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3893,RIVER KATHAJODI AT CUTTACK FD/S AT KAMASASAN,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3900,RIVER GOBARI AT KENDRAPARA U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3901,RIVER GOBARI AT KENDRAPARA D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3902,RIVER DEVI AT MACCHGAON,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3896,"RIVER GANGUA NEAR RAJDHANI ENGINEERING 
+COLLEGE",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3897,RIVER GANGUA AT PALASUNI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3898,RIVER GANGUA AT SAMANTARAPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3899,RIVER GANGUA AT VADIMULA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3903,RIVER KUSHABHADRA AT BHINGARPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3904,RIVER KUSHABHADRA AT NIMAPARA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3905,RIVER KUSHABHADRA AT GOP,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3906,RIVER MANGALA AT PURI U/S MALATIPATPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3907,RIVER MANGALA AT PURI D/S GOLASAHI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3908,RIVER BHARGAVI AT CHANDANPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3909,"RIVER KANSARI AT BANAPUR ROAD NEAR 
+PURUSHOTTAMPUR",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3910,RIVER BADASANKHA NADI NEAR LANGALESWAR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3911,RIVER RATNACHIRA NAADI AT KUMARADIHI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3912,RIVER NUNA NADI AT BIJIPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3913,RIVER KUSUMI NADI NEAR TANGI (LAXMIDHARA PUR),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,3914,"RIVER SABULIA NADI NEAR RAMBHA (AT 
+JAGANNATHPATNA)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_68.csv,2408,"RIVER TEL (OVER ROAD BRIDGE STATE HIGHWAY -41, 
+MANAMUNDA)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,1085,RIVER DHAMRA AT DHAMRA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,3168,"RIVER HASDEO DOWN STREAM OF HASDEO RIVER 
+NEAR VILLAGE URGA  KORBA",,CHHATTISGARH  24.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,3889,RIVER ONG AT DHARUAKHAMMA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,4993,HUKITOLA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,5532,RIVER GOBARI  AT  JAMBO,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,5533,RIVER HANSUA AT  BARUNEI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,5534,RIVER PATSALA  AT  GUPTI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,5535,"RIVER DHAMRA,  KALIBHANJADIA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_69.csv,5536,RIVER BHITARAKANIKA AT DANGAMALA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2616,RIVER BAIRA SIUL  D/S SURGANI,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2607,SUKETI KHAD BEFORE CONF. WITH RIVER BEAS,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2608,RIVER BINWA AT D/S PAPROLA/BAIJNATH,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2609,NEUGAL KHAD  D/S THURAL,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2610,"RIVER SPITI BEFORE CONF.WITH RIVER SUTLEJ AT 
+KHAB",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2612,RIVER BASPA U/S RESERVOIR BASPA HEP AT KUPPA,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,5767,RIVER ANDHRA B/C TO RIVER PABBAR AT CHIRGAON,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,5769,"BANOI KHAD AT KALAPUL ON CANT ROAD 
+DHARAMSHALA",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2755,"RIVER BANGANGA (BATHING GHAT), KATRA,",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2756,"RIVER BANGANGA (IN FRONT OF PONY SHED NEAR 
+REASI BRIDGE)KATRA",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2752,"RIVER BASANTER U/S (R.H.S) SAMBA (BELOW NH-1A 
+BRIDGE),",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2753,"RIVER BASANTER D/S(R.H.S.) SAMBA (AT CHAK MANGA 
+GUJJAR",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2747,"RIVER TAWI AT SURAJPUR CHATHA(10 KM D/S TAWI 
+BRIDGE)BELOW BRIDGE NEAR CHATHA MSW DUMPING 
+SITE, J&K",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2748,RIVER CHENAB AT L.H.S.(BELOW BRIDGE CHENAB),,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2749,"RIVER CHENAB AT BLIND CURVE SHAMSHAN GHAT (1.5 
+KM U/S FROM SPOT)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2750,"RIVER CHENAB AT CHADRA GAON VIEW POINT(4 KM U/S 
+FROM SPOT)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2751,"RIVER CHENAB AT JAL PATAN MANDIR AFTER MEETING 
+WITH MAIN DRAIN OF AKHNOOR CITY(1.5 KMD/S FROM 
+SPOT)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2754,"RIVER DEVAK UDHAMPUR(NEAR SHIV MANDIR 
+D/S)L.H.S.",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,2757,RIVER DEVAK AT UTTERBEHNI,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_7.csv,4058,"RIVER DEVAK AT PURMANDAL, NEAR TEMPLE",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,1081,RIVER BAITARNI AT JODA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,1082,RIVER BAITARNI AT ANANDPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,1083,RIVER BAITARNI AT JAJPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3935,RIVER BAITARNI AT NAIGARH,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3936,RIVER BAITARNI AT UNCHABALI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3938,RIVER BAITARNI AT TRIBINDHA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3937,RIVER BAITARNI AT CHAMPUA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,1084,RIVER BAITARNI AT CHANDBALI U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,10018,RIVER BAITARNI AT CHANDBALI D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3940,RIVER SALANDI AT BHADRAK U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,3941,RIVER SALANDI AT BHADRAK D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,2421,"RIVER KUSEI BEFORE JOINING WITH BAITARANI AT 
+ANANDPUR, DEOGAON",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_70.csv,5535,"RIVER DHAMRA,  KALIBHANJADIA",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1037,RIVER BRAHMANI AT U/S PANPOSH,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1038,RIVER BRAHMANI AT D/S PANPOSH AT DEOGAN,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1302,RIVER BRAHMANI AT ROURKELA D/S AT JALDA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,2414,RIVER BRAHMANI AT ROURKELA FD/S AT BIRITOLA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1039,RIVER BRAHMANI AT BONAIGARH,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1040,RIVER BRAHMANI AT RENGALI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1041,RIVER BRAHMANI AT SAMAL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,2415,"RIVER BRAHMANI AT TALCHER FU/S (INTAKE WELL OF 
+MCL, TALCHER)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,2416,RIVER BRAHMANI AT TALCHER FD/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1042,RIVER BRAHMANI AT KAMALANGA (TALCHER D/S),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,2417,"RIVER BRAHAMNI AT DHENKANAL D/S, DHENKANAL 
+TOWN",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1303,RIVER BRAHMANI AT TALCHER U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1043,RIVER BRAHMANI AT BHUBAN,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,2418,"RIVER BRAHMANI AT KABATABANDHA (BEFORE IMPACT 
+OF INDUSTRIAL ACTIVITY IN KALINGANAGAR AREA)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,10019,RIVER BRAHMANI AT DHARAMSHALA U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1044,RIVER BRAHMANI AT DHARMASHALA U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,1045,RIVER BRAHMANI AT PATTAMUNDAI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,3916,RIVER BRAHMANI AT ROURKELA FD/S AT ATTAGHAT,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,3917,RIVER BRAHMANI AT MANDAPAL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_71.csv,3918,RIVER BRAHMANI AT DHENKANAL U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2419,"RIVER KHARASROTA AT KHANDITARA (D/S OF 
+INDUSTRIAL ACTIVITIES AT KALINGA NAGAR)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2420,RIVER KHARASROTA AT AUL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3922,RIVER KHARASROTA AT BINJHARPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3921,RIVER KISINDAJHOR AT KHARAGPRASAD,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3931,RIVER BANGURUSINGADA JHOR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,1034,"RIVER SANKH AT BOLBA, JHARKAND",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2412,RIVER SANKHA U/S ( D/S OF MANDIRA DAM),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,1035,"RIVER KARO AT LOHOJIMI U/S, JHARKAND",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3915,RIVER KARO AT BADBIL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3924,RIVER BADAJHOR (AT DHENKANAL),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3933,RIVER DAMASALA AT DAYANABIL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3927,RIVER TIKIRA AT KANIHA U/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3928,RIVER TIKIRA AT KANIHA D/S,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3932,RIVER RAMIALA NEAR KAMAKHYANAGAR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,1033,"RIVER KOEL AT BASIA, DAM U/S, JHARKHAND",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,1036,"RIVER KOEL AT MANOHARPUR AFTER MEETING KOINA 
+RIVER D/S, JHARKAND",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2376,RIVER NORTH KOEL U/S DALTANGANJ,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2377,"RIVER NORTH KOEL D/S BCCL, REHLA",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,2413,RIVER KOEL U/S (AFTER CONFLUENCE OF KARO),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3919,RIVER NANDIRA U/S AT KUKUDANGA,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3920,RIVER NANDIRA D/S AT DASNALI,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3925,RIVER LINGIRA U/S OF ANGUL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3926,RIVER LINGIRA D/S OF ANGUL,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3929,"RIVER SINGDA JHOR (TALCHER KANIHA ROAD BRIDGE, 
+BALANGI)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_72.csv,3930,"BANGURU NALLAH (OVER BRIDGE TALCHER RENGALI 
+DAM ROAD, SARKISOREPAL)",,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,1095,"RIVER GODAVARI AT U/S OF GANGAPUR DAM, VILLAGE- 
+GANGAPUR,TALUKA- NASHIK, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2177,"RIVER GODAVARI  NEAR SOMESHWAR TEMPLE, 
+VILLAGE- SOMESHWAR, TALUKA- NASHIK, DISTRICT- 
+NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2179,"RIVER GODAVARI  AT HANUMAN GHAT, VILLAGE- 
+NASHIK CITY, TALUKA- NASHIK, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,1096,"RIVER GODAVARI  AT RAMKUND, VILLAGE- 
+PANCHAVATI, TALUKA- NASHIK, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,1211,"RIVER GODAVARI  AT D/S OF NASHIK NEAR AMARDHAM, 
+VILLAGE- GADGEBABAMAHARAJ NAGAR, TALUKA - 
+NASHIK, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2180,"RIVER GODAVARI  AT TAPOVAN,VILLAGE- TAPOVAN, 
+TALUKA- NASHIK, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2181,"RIVER GODAVARI  AT KAPILA- GODAVARI CONFLUENCE 
+POINT,  VILLAGE- TAPOVAN, TALUKA- NASHIK, DISTRICT- 
+NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2182,"RIVER GODAVARI AT SAIKHEDA VILLAGE,  VILLAGE- 
+SAIKHEDA, TALUKA- NIPHAD, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2183,"RIVER GODAVARI AT NANDUR-MADHMESHWAR DAM, 
+VILLAGE- NANDUR, TALUKA- NIPHAD, DISTRICT- NASHIK.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2160,"RIVER GODAVARI AT U/S OF AURANGABAD 
+RESERVOIR,KAIGAON TOKKA NEAR KAIGAON 
+BRIDGE,VILLAGE- KAIGAON,TALUKA- GANGAPUR, 
+DISTRICT- AURANGABAD.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2158,"RIVER GODAVARI AT U/S OF PAITHAN AT PAITHAN 
+INTAKE PUMP HOUSE, VILLAGE- JAYAKWADI, TALUKA- 
+PAITHAN, DISTRICT- AURANGABAD.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,1312,"RIVER GODAVARI  AT JAIKWADI DAM, VILLAGE- 
+PAITHAN, TALUKA- PAITHAN, DISTRICT-AURANGABAD.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2159,"RIVER GODAVARI AT D/S OF PAITHAN AT PATHEGAON 
+BRIDGE, VILLAGE- PATHEGAON, TALUKA- PAITHAN, 
+DISTRICT- AURANGABAD.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2161,"RIVER GODAVARI AT JALNA INTAKE WATER PUMP 
+HOUSE, VILLAGE- SHAHABAD, TALUKA- AMBAD, 
+DISTRICT- JALNA.",,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,2157,"RIVER GODAVARI AT LATUR WATER INTAKE NEAR PUMP 
+HOUSE. VILLAGE. DHAMEGAON, TALUKA. KALUMB, 
+DISTRICT. OSMANABAD.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_73.csv,12,"RIVER GODAVARI AT DHALEGAON, VILLAGE- 
+DHALEGAON, TALUKA- PATHARI, DISTRICT- PARBHANI.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,1209,"RIVER GODAVARI AT RAHER, VILLAGE.RAHER, TALUKA. 
+NAYAGAON, DISTRICT. NANDED.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,1210,"RIVER GODAVARI NEAR INTAKE WATER PUMP HOUSE, 
+VILLAGE- VISHNUPURI, TALUKA- NANDED, DISTRICT- 
+NANDED.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,30049,"RIVER GODAVARI AT BELUR,DHARMADABAD, NANDED 
+(MAHARSHTRA)",,MAHARASHTRA  21.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2360,"RIVER GODAVARI AT BASARA (V & M), NIRMAL (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,4227,"RIVER GODAVARI- POCHERA WATER FALLS, POCHERA 
+(V), BOATH (M), ADILABAD (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,5105,"RIVER GODAVARI PUSHKAR GHAT , MANCHERIAL (V&M), 
+MANCHERIAL (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,13,"RIVER GODAVARI AT MANCHERIAL (V&M), 
+MANCHERIAL(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2361,"RIVER GODAVARI-RIVER GODAVARI AT MANCHERIAL, 
+NEAR RAIL WAY BRIDGE B/C OF RALLAVAGU, 
+MANCHERIAL (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2362,"RIVER GODAVARI-D/S  AT RAMAGUNDAM NEAR FCI 
+INTAKE WELL, PEDDAPALLI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2363,"RIVER GODAVARI AT GODAVARIKHANI NEAR BATHING 
+GHAT , PEDDAPALLI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2364,"RIVER GODAVARI AT RAMAGUNDAM UPSTREAM NEAR 
+DAM, PEDDAPALLI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,5497,"RIVER GODAVARI D/S AFTER CONFLUENCE OF 
+RAMAGUNDAM FERTILIZE AND CHEMICALS LTD 
+(RFCL),DISCHARGE INTO RIVER",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2356,"RIVER GODAVARI D/S OF RAMAGUNDAM AT MANTHANI, 
+PEDDAPALLI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,4662,"RIVER GODAVARI AT KALESHWARAM, 500 MTS. BEFORE 
+BATHING GHAT,  KALESHWARAM (V), MAHADEVPUR 
+(M),JAYASHANKAR  BHUPALAPALLY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2365,"RIVER GODAVARI - U/S AT KAMALAPUR ,AT M/S.AP 
+RAYONS LTD., INTAKE WELL , KAMALAPUR (V), 
+MANGAPET (M),   MULUGU (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2366,"RIVER GODAVARI - D/S AT KAMALAPUR ,AT M/S.AP 
+RAYONS LTD., DISCHARGE POINT , MANGAPET (V&M), 
+MULUGU (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2367,"RIVER GODAVARI - U/S  AT BHADRACHALAM BATHING 
+GHAT, BHADRADRI  KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2368,"RIVER GODAVARI - D/S  AT BHADRACHALAM BATHING 
+GHAT , BHADRADRI KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,2369,"RIVER GODAVARI AT BURGAMPAHAD , BHADRADRI 
+KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_74.csv,4367,"RIVER GODAVARI KOUNDINYA MUKTHI (V), KUKUNUR 
+(M), BORDER POINT BETWEEN ANDHRA PRADESH & 
+TELANGANA STATES",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,4359,"RIVER GODAVARI AFTER CONFLUENCE WITH SABARI 
+TRIBUTARY (KUNAVARAM) AT WADDIGUDEM(V) V.R. 
+PURAM (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,14,RIVER GODAVARI AT POLAVARAM (V & M),,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,1218,"RIVER GODAVARI AT RAJAHMUNDRY U/S, 
+KUMARADEVAM (V), KOVVUR (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,2370,"RIVER GODAVARI AT RAJAMUNDRY U/S OF NALLA 
+CHANNEL,RAJAMUNDRY",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,2371,"RIVER GODAVARI AT RAJAMUNDRY D/S OF NALLA 
+CHANNEL, RAJAMUNDRY",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,3067,"RIVER GODAVARI D/S  DOWLEISWARAM AFTER 
+CONFLUENCE OF STP OUTLET, DOWLEISWARAM (V)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_75.csv,1219,"RIVER GODAVARI AT RAJAHMUNDRY D/S, 
+DOWLESWARAM (V), RAJAHMUNDRY (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,3948,RIVER INDRAVATI AT NAWARANGPUR,,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,30062,RIVER INDRAWATI AT NOWRANGPUR (ODISHA),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,1854,"RIVER INDRAVATI  NELSONNAR,A/C OF DANTEWADA",,CHHATTISGARH  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,1855,"RIVER INDRAVATI,PANDEMURGA B/C OF GODAVARI 
+RIVER",,CHHATTISGARH  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,3312,"RIVER KANHAN AT CHINDWARA BEFORE MIXING 
+BOREGAON GROWTHCENTRE NALLA, JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,5537,"RIVER KANHAN NEAR MANDIR MAIN GHAT 
+KHAPPADIWAR, CHHINDWARA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,2170,"RIVER KANHAN AT U/S OF M/S VIDARBHA PAPER MILLS, 
+VILLAGE- SINORA, TALUKA- PARSEONI, DISTRICT- 
+NAGPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,2171,"RIVER KANHAN AT D/S OF M/S VIDARBHA PAPER MILLS,  
+VILLAGE- SINORA, TALUKA- PARSEONI, DISTRICT- 
+NAGPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_76.csv,1909,"RIVER KANHAN AT D/S OF NAGPUR, VILLAGE- 
+AGARGAON, TALUKA- KUHI, DISTRICT- NAGPUR.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,3080,"RIVER KINNERASANI (TRIBUTRARY OF GODAVARI) - U/S 
+OF KARAKAVAGU AT PALONCHA , BHADRADRI 
+KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,3081,"RIVER KINNERASANI (TRIBUTRARY OF GODAVARI) - D/S 
+OF KARAKAVAGU AT PALONCHA, BHADRADRI 
+KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2372,"RIVER KINNERASANI (TRIBUTRARY OF GODAVARI) - 
+KINNERASANI AFTER CONFLUENCE OF KTPS ASH POND 
+EFFLUENTS ,BHADRADRI KOTHAGUDEM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1908,"RIVER KOLAR BEFORE CONFLUENCE WITH KANHAN 
+RIVER AT WAREGAON BRIDGE, VILLAGE- WAREGAON, 
+TALUKA-KAMPTEE, DISTRICT -NAGPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,4257,"RIVER MANERU (TRIBUTARY OF GODAVARI)  - AT D/S OF  
+MUNICIPAL DUMP SITE, KARIMNAGAR",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,4664,"RIVER MANERU (TRIBUTARY OF GODAVARI) -  AT 
+GHATTEPALLI (V) NEAR SULTHANABAD, KARIMNAGAR",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1158,"RIVER MANERU (TRIBUTARY OF GODAVARI)  -  AT 
+SOMANPALLY , PEDDAPALLI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1891,RIVER MANJEERA AT D/S INTAKE POINT TO BIDAR CITY,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1157,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  -  AT 
+RAIPALLY, SANGAREEDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1781,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  -  AT 
+GANAPATHI SUGARS, SANGAREDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2374,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  - U/S OF 
+RIVER MANJEERA AT GOWDICHERLA BEFORE 
+CONFLUENCE WITH NAKKAVAGU, SANGAREDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2375,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  - D/S OF 
+RIVER MANJEERA AT GOWDICHERLA ATFTER 
+CONFLUENCE WITH NAKKAVAGU, SANGAREDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,4226,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  - RIVER 
+MANJEERA AT YEDU PAYALA TEMPLE, NAGSAMPALLI 
+(V), PAPANNAPET (M), MEDAK DISTRICT",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2673,"RIVER MANJRA  AT D/S OF LATUR, NEAR LATUR- 
+NANDED BRIDGE, VILLAGE- BHATKHEDA, TALUKA- 
+LATUR, DISTRICT- LATUR.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,30055,RIVER MANJEERA AT JANWADA(BANGALORE),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2675,RIVER MORNA D/S OF RAILWAY BRIDGE AKOLA,,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,2349,"RIVER MANJEERA (TRIBUTARY OF GODAVARI)  - NAKKA 
+VAGU AT BACHUGUDEM, SANGAREEDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,1214,"RIVER PENCH AT CHHINDWARA ,NEAR SINGORI ROAD 
+BRIDGE, CHHINDWARA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_77.csv,5541,"RIVER PENCHÂ  NEAR ROAD BRIDGE 
+HALLAKHURD,CHHINDWARA",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2699,"RIVER PENGANGA  AT MEHKAR -BULDANA ROAD 
+BRIDGE, VILLAGE-MEHKAR, TALUKA-MEHKAR,DISTRICT-
+AKOLA.",,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2698,"RIVER PENGANGA  D/S OF ISAPUR DAM, VILLAGE- 
+ISAPUR,TALUKA- PUSAD, DISTRICT- YAVATMAL.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2697,"RIVER PENGANGA NEAR WATER SUPPLY SCHEME OF 
+UMARKHED M.C., VILLAGE. BELKHED, TALUKA. 
+UMARKHED, DISTRICT. YAVATMAL.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2373,"RIVER SABARI AT KUNAVARAM, EAST GODAVARI DIST",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,1856,,,"RIVER SHANKNI  DANTEWADA,A/C OF DANKANI RIVER  CHHATTISGARH  27.0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,3330,"RIVER RIVER WAINGANGA AT CHHAPARA , SEONI, NEAR 
+WSS INTAKE POINT",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,3331,"RIVER WAINGANGA AT CHHAPARA, NEAR ROAD BRIDGE 
+AFTER MIXING 
+MOTI & CHAMARIYA NALLA, JABALPUR",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,1213,"RIVER WAINGANGA AT BALAGHAT, M.P.",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,30041,"RIVER WAINGANGA AT BAPERA, BHANDARA, 
+(MAHARASHTRA)",,MAHARASHTRA  21.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2173,"RIVER WAINGANGA AT U/S OF ELLORA PAPER MILLS, 
+VILLAGE. TUMSAR, TALUKA. TUMSAR, DISTRICT. 
+BHANDARA.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2172,"RIVER WAINGANGA AT D/S OF ELLORA PAPER MILLS, 
+VILLAGE. TUMSAR, TALUKA. TUMSAR, DISTRICT. 
+BHANDARA.",,MAHARASHTRA  18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2175,"RIVER WAINGANGA AT U/S OF GAURAV PAPER MILLS, 
+NEAR JACKWELL, VILLAGE. BRAMHPURI, TALUKA. 
+CHANDRAPUR, DISTRICT. CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,2176,"RIVER WAINGANGA AT D/S OF GAURAV PAPER MILLS, 
+NEAR JACKWELL VILLAGE. BRAMHPURI, TALUKA. 
+CHANDRAPUR, DISTRICT. CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,1910,"RIVER WAINGANGA  AFTER CONFLUENCE WITH 
+KANHAN RIVER, VILLAGE- AMBHORA,TALUKA- KUHI, 
+DISTRICT- NAGPUR.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,11,"RIVER WAINGANGA AT ASHTI, VILLAGE. ASHTI, TALUKA. 
+GONDPIPRI, DISTRICT.CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,30059,"RIVER WARDHA AT VILLAGE BANGAON NEAR 
+PANDHURNA (MP & MAHARASHTRA)",,"MADHYA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_78.csv,1315,"RIVER WARDHA AT PULGAON RAILWAY BRIDGE, 
+VILLAGE- PULGAON,TALUKA - WARDHA, DISTRICT- 
+WARDHA.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2721,"RIVER WARDHA  AT U/S OF ACC LTD. GHUGGUS NEAR 
+WCL PUMP HOUSE, VILLAGE- GHUGGUS, TALUKA- 
+CHANDRAPUR, DISTRICT- CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2174,"RIVER WARDHA AT D/S OF ACC LTD. GHUGGUS NEAR 
+WCL PUMP HOUSE, VILLAGE- GHUGGUS, TALUKA- 
+CHANDRAPUR, DISTRICT- CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2156,"RIVER WARDHA AT CONFLUENCE POINT OF PENGANGA 
+& WARDHA. VILLAGE. JUGAD, TALUKA. WANI, DISTRICT. 
+YAVATMAL.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2720,"RIVER WARDHA AT U/S OF ERAI RIVER AT HADASTI 
+NEAR ARUN ENGG. WORKS, VILLAGE- HADASTI, 
+TALUKA- CHANDRAPUR, DISTRICT- CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2719,"RIVER WARDHA AT D/S OF ERAI RIVER AT HADASTI 
+NEAR ARUN ENGG. WORKS, VILLAGE- HADASTI, 
+TALUKA- CHANDRAPUR, DISTRICT- CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,1212,"RIVER WARDHA AT RAJURA BRIDGE, VILLAGE- RAJURA, 
+TALUKA- CHANDRAPUR, DISTRICT- CHANDRAPUR.",,MAHARASHTRA  19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2722,"RIVER WENA AT U/S OF MOHATA MILLS, NEAR RAILWAY 
+BRIDGE ON WARDHA, CHANDRAPUR RAILWAY LINE, 
+VILLAGE- HINGANGHAT, TALUKA- HINGANGHAT, 
+DISTRICT- WARDHA.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_79.csv,2723,"RIVER WENA AT D/S OF MOHATA MILLS, NEAR  BRIDGE 
+ON HINGANGHAT- WADNER ROAD,  VILLAGE- 
+HINGANGHAT, TALUKA- HINGANGHAT,  DISTRICT- 
+WARDHA.",,MAHARASHTRA  16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4062,"RIVER DEVAK 2 KM D/S FROM SHIV MANDIR AT 
+UDHAMPUR,",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4063,"RIVER DEVAK ABOUT 10 KM D/S FROM SHIV MANDIR, 
+BELOW RAILWAY BRIDGE, UDHAMPUR",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4081,"SURAN RIVER BELOW SHER-E-KASHMIR BRIDGE AT 
+POONCH",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3277,RIVER JHELUM AT BARAMULLA D/S,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,1410,"RIVER JHELAM AT DALAGATE (INLET), SRINAGAR",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,1411,RIVER JHELAM AT CHATTABAL WEIR (OUTLET,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3272,RIVER JHELUM AT VERINAG,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3273,"RIVER JHELUM AT SANGAM, CONFLUENCE POINT OF 
+VISHAV NALLAH",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3274,RIVER JHELUM AT AWANTIPORA,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3275,RIVER JHELUM AT PAMPORE,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,3276,"RIVER JHELUM AT SOPORE, CONFLUENCE POINT OF 
+WULAR LAKE",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4053,RIVER JHELUM AT BIJEHARA,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4054,RIVER JHELUM AT PANTHACHOWK,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,2742,"RIVER TAWI AT SHETALI LIFTING POINT NAGROTA(5KM 
+U/S TAWI BRIDGE)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,2743,"RIVER TAWI AT BAGH-E-BAHU LIFTING POINT(1 KM U/S 
+TAWI BRIDGE)",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,1412,"RIVER TAWI AT JAMMU U/S, (TAWI BRIDGE )",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,2744,RIVER TAWI BELOW TAWI BRIDGE,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,2745,RIVER TAWI BAGHWATI NAGAR (2KM D/S TAWI BRIDGE,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,2746,RIVER TAWI AT BELICHARANA(4KM D/S TAWI BRIDGE),,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4055,"RIVER TAWI AT 1 KM D/S BELOW STP DISCHARGE POINT 
+AT BHAGWATI NAGAR",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_8.csv,4056,"RIVER TAWI AT BALOL NALLAH, NEAR NIT COLLEGE, 
+MIRAN SAHIB, BEFORE MIXING",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,1194,"RIVER KRISHNA AT DHOM DAM, VILLAGE- WAI, TALUKA-
+MAHABALESHWAR, DISTRICT-SATARA.",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,2190,"RIEVR KRISHNA AT GANPATI GHAT, WAI, VILLAGE- 
+WAI,TALUKA- WAI,DISTRICT- SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,2187,"RIVER KRISHNA AT KSHETRA MAHULI, VILLAGE- 
+KSHETRA-MAHULI,TALUKA- MAHULI, DISTRICT- SATARA.",,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,2188,"RIVER KRISHNA  AT KRISHNA- VENNA SANGAM MAHULI , 
+VILLAGE- MAHULI,TALUKA- MAHULI, DISTRICT- SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_80.csv,36,"RIVER KRISHNA AT OLD  KRISHNA BRIDGE, KARAD 
+STATION ROAD , KARAD, TALUKA- KARAD, DISTRICT- 
+SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1906,"RIVER KRISHNA AT WALWA, D/S OF ISLAMPUR NEAR 
+VITHAL TEMPLE, VILLAGE- WALWA, TALUKA- WALWA, 
+DISTRICT- SANGLI.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,37,"RIVER KRISHNA AT MAIGHAT, VILLAGE- GAWALI GALLY, 
+TALUKA- MIRAJ,  DISTRICT- SANGLI.",,MAHARASHTRA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,30047,"RIVER KRISHNA AT KURUNDWAD, KOLHAPUR, 
+(MAHARASHTRA)",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1310,"RIVER KRISHNA AT KURUNDWAD NEAR SANTAJI 
+GHORPADE GHAT, VILLAGE.NARSHINGWADI, 
+KURUNDWAD, TALUKA. SHIROL, DISTRICT. KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1153,"RIVER KRISHNA AT RAJAPUR WEIR, VILLAGE. RAJAPUR, 
+TALUKA. SHIROL, DISTRICT. KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1889,"RIVER KRISHNA - ANKALI BRIDGE ALONG CHIKKODI 
+KAGWAD ROAD",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1182,RIVER KRISHNA AT U/S OF UGARKHURD BARRAGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,2763,"RIVER KRISHNA AT ASANGI VILLAGE (JAMAKANDI 
+VILLAGE)",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,5597,"RIVER KRISHNA AT ALMATTI DAM HAVELI , OLD 
+JACKWELL POINT, BAGALKOTE",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,2781,RIVER KRISHNA AT D/S OF ALAMATTI DAM,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1181,RIVER KRISHNA AT D/S OF NARAYANPURA DAM,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1028,RIVER KRISHNA AT TINTINI BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,30056,RIVER KRISHNA AT DEODURGA (BANGALORE),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1784,"RIVER KRISHNA AT THANGADI, THANGADI(V), 
+KRISHNA(M), NARAYANAPET(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1170,RIVER KRISHNA AT D/S OF DEVASAGAR BDG.,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,39,"RIVER KRISHNA AT GADWAL BRIDGE,NADHI 
+AGRAHARAM, GADWAL(MUNCI.), JOGULAMBA 
+GADWAL(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,4225,"RIVER KRISHNA AT JOGULAMBA TEMPLE, 
+ALAMPUR(V&M), JOGULAMBA GADWAL(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1175,"RIVER KRISHNA A/C WITH TUNGABHADRA, 
+SANGAMESHWARAM (V), KOTTAPALLE (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,3083,"RIVER KRISHNA D/S OF SRISHAILAM, SRISHAILAM",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,5108,"RIVER KRISHNA BEFORE CONFLUENCE OF RIVER MUSI 
+AT WADAPALLY (V), DAMARACHARLA (M), NALGONDA 
+(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,1465,"RIVER KRISHNA - CONFLUENCE OF RIVER KRISHNA & 
+RIVER MUSI AT WADAPALLY (V), DAMARCHARLA (M), 
+NALGONDA DISTRICT",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_81.csv,4381,"RIVER KRISHNA AFTER CONFLUENCE WITH RIVER MUSI 
+AT VADAPALLI (V), DACHEPALLI (M) BETWEEN ANDHRA 
+PRADESH & TELANGANA STATES",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,5109,"RIVER KRISHNA AFTER CONFLUENCE OF RIVER MUSI 
+AT WADAPALLY (V), DAMARACHARLA (M), NALGONDA(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,4663,"RIVER KRISHNA AT MATTEPALLY, 500 MTS. BEFORE 
+BATHING GHAT, SURYAPET",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,5110,"RIVER KRISHNA AT PULICHINTALA RESERVOIR AT 
+CHINTHALAPALEM (V&M), SURYAPET (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,1786,"RIVER KRISHNA AT VEDADRI (V),  JAGGAYYAPETA (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,1787,"RIVER KRISHNA AT AMARAVATI,  AMARAVATI (V & M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,4375,"RIVER KRISHNA, PAVITHRA SANGAMAM, AFTER 
+CONFLUENCE WITH RIVER GODAVARI WATER, FERRY 
+(V), IBRAHIMPATNAM (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,25,RIVER KRISHNA AT VIJAYWADA TOWN,,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_82.csv,"3079 
+1782","RIVER KRISHNA D/S OF RAMALINGESHWARNAGAR A/C 
+WITH TREATED SEWAGE DISCHARGING FROM 10MLD 
+STP LOCATED AT RAMALINGESHWARNAGAR, 
+VIJAYAWADA, KRISHNA 
+RIVER KRISHNA AT HAMSALADEEVI PULIGADDA 
+AQUEDUCT NEAR AVANIGADDA (V)",,"ANDHRA 
+PRADESH 
+ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,1463,"RIVER NIRA  AT SAROLA BRIDGE, VILLAGE- SAROLA, 
+TALUKA-BHOR, DISTRICT- PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,2683,"RIVER NIRA  AT SHINDEWADI,  VILLAGE- SHIRVAL, 
+TALUKA- KHANDALA, DISTRICT- SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,2682,"RIVER NIRA AT U/S OF JUBILANT ORGANOSIS, VILLAGE- 
+NIRA (DATTAGHAT),TALUKA- BARAMATI, DISTRICT- 
+PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,2195,"RIVER NIRA AT D/S OF JUBILANT ORGANOSIS,  VILLAGE- 
+NIMBUT, TALUKA- BARAMATI, DISTRICT- PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_83.csv,2681,"RIVER NIRA AT SANGAVI, VILLAGE- SANGAVI, TALUKA- 
+PHALTAN, DISTRICT- SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,2716,"RIVER VENNA AT MAHABALESHWAR, VILLAGE. 
+MAHABALESHWAR, TALUKA. MAHABALESHWAR, 
+DISTRICT. SATARA.",,MAHARASHTRA  20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,2186,"RIVER VENNA AT VARYE, VILLAGE - VARYE,TALUKA- 
+SATARA, DISTRICT- SATARA.",,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,2717,"RIVER VENNA AT MAHULI, VILLAGE- MAHULI, TALUKA- 
+MAHULI, DISTRICT- SATARA.",,MAHARASHTRA  23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4253,"RIVER MUSI AT BAPUGHAT SANGAM, HYDERABAD",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,2339,"RIVER MUSI AT NAGOLE, RANGA REDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4659,"RIVER MUSI - OUTLET OF NALLA CHERUVU, 
+PEERAJADIGUDA, RANGAREDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4660,"RIVER MUSI AT PEERAJADIGUDA, RANGA REDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,1173,"RIVER MUSI - D/S AT PRATAPASINGARAM , 
+SHAMSHABAD",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4657,"RIVER MUSI AT PILLAIPALLI, RANGAREDDY",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4254,"RIVER MUSI  AT RUDRAVELLY BRIDGE,YADADRI",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,4658,"RIVER MUSI AT VALIGONDA BRIDGE, NALGONDA DIST",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,3082,"RIVER MUSI AT SOLIPET (KASANIGUDA), NALGONDA",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,5106,"RIVER MUSI AT BHEEMARAM BRIDGE, BHEEMARAM (V), 
+KETHEPALLY (M), NALGONDA (D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,5107,"RIVER MUSI BEFORE CONFLUENCE OF RIVER KRISHNA 
+AT WADAPALLY (V), DAMARACHARLA (M), NALGONDA(D)",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,1189,"RIVER BHIMA AT PUNE (MUTHA RIVER) AT U/S OF 
+VITHALWADI NEAR SHANKAR MANDIR, VILLAGE. 
+VITHALWADI, TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,1190,"RIVER BHIMA AT D/S OF BUNDGARDEN, VILLAGE 
+YERWADA, TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,2655,"RIVER BHIMA AT KOREGAON NEAR KOREGAON BRIDGE, 
+VILLAGE- KOREGAON,TALUKA- SHIRUR, DISTRICT- 
+PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,1191,"RIVER BHIMA AFTER CONFLUENCE WITH MULA-MUTHA 
+AT PARGAON NEAR VASANT BANDARA,VILLAGE- 
+PARGAON,TALUKA- DAUND, DISTRICT- PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_84.csv,1192,"RIVER BHIMA  AT DAUND NEAR MAHADEV 
+TEMPLE,VILLAGE- DAUND, TALUKA- DAUND, DISTRICT- 
+PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,2656,"RIVER BHIMA BACKWATER OF UJANI DAM, NEAR RAW 
+WATER PUMP HOUSE, VILLAGE- KUMBARGAON, 
+TALUKA- INDAPUR, DISTRICT- PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1188,"RIVER BHIMA AT NARSINGPUR  NEAR SANGAM BRIDGE 
+AFTER CONFLUENCE WITH NIRA, VILLAGE- 
+NARSINGPUR, TALUKA-MALSHIRAS, DISTRICT- 
+SOLAPUR.",,MAHARASHTRA  29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,30046,"RIVER BHIMA AT TAKLI, SOLAPUR, (MAHARASHTRA)",,MAHARASHTRA  22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,28,"RIVER BHIMA AT TAKLI NEAR KARNATAKA BORDER, 
+VILLAGE- TAKALI, TALUKA- SOUTH SOLAPUR,  DISTRICT- 
+SOLAPUR.",,MAHARASHTRA  29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,5582,"RIVER BHIMA DOWNSTREAM, DHULKED VILL",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1183,"RIVER BHIMA AT D/S OF ROAD BRIDGE AT GANGAPUR 
+VILLAGE",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1184,RIVER BHIMA AT FEROZABAD VILLAGE (D/S),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1888,"RIVER BHIMA AT CONFLUENCE OF JEWARGI TOWN 
+SEWAGE DISPOSAL POINT",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,30057,RIVER BHIMA AT GANGAPUR (BANGALORE),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1167,RIVER BHIMA AT D/S OF BDG. NEAR YADGIR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,5158,"RIVER HUNDRI AT GAJULADINNE RESERVOIR 
+GAJULADINNE (V),GONEGANDLA (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,2350,"RIVER HUNDRI AT LAXMIPURAM (V),  KALLUR (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1091,RIVER BHADRA AT MALLESWARAM D/S OF KIOCL,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,2771,RIVER BHADRA AT U/S OF KIOCL,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,2765,RIVER BHADRA AT U/S OF MPM,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1387,RIVER BHADRA AT D/S OF BHADRAVATHI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,4105,"RIVER BHADRA D/S MYSORE PAPER MILL (MPM), 
+BHADRAWATI, SHIVAMOGGA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1169,"RIVER BHADRA AT D/S OF KIOCL ROAD BRIDGE, NEAR 
+HOLEHUNNUR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1911,"RIVER CHANDRABHAGA AT U/S OF PANDHARPUR 
+TOWN, VILLAGE. GURSALE, TALUKA. PANDHARPUR, 
+DISTRICT. SOLAPUR.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_85.csv,1912,"RIVER CHANDRABHAGA AT D/S OF PANDHARPUR TOWN 
+REAR VISHNUPANT MANDIR, VILLAGE. GOPALPUR, 
+TALUKA. PANDHARPUR DISTRICT. SOLAPUR.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1163,RIVER GHATAPRABHA AT W.A. POINT TO GOKAK TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,4104,"RIVER GHATAPRABHA DAVALSHWAR BARRAGE 
+JACKWELL FOR DRINKING WATER SUPPLY",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1185,"RIVER GHATAPRABHA AT D/S OF MUDHOL ROAD CROSS 
+BDG.",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2665,"RIVER GHOD AT SHIRUR, VILLAGE. SHIRUR, TALUKA. 
+SHIRUR, DISTRICT. PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2669,"RIVER INDRAYANI  AT U/S OF MOSHIGAON,VILLAGE- 
+MOSHI, TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2668,"RIVER INDRAYANI AT D/S OF MOSHI VILLAGE. VILLAGE- 
+MOSHI,  TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2197,"RIVER INDRAYANI AT D/S OF ALANDIGAON, VILLAGE. 
+ALANDIGAON, TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1895,RIVER KAGINA D/S OF SEWAGE DISPOSAL POINT,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2777,RIVER KAGINA AT SHAHABAD BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,4500,"RIVER KAGINA AT D/S OF BRIDGE CUM BARRAGE, 
+SADEM",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2189,"RIVER KOYNA AT KARAD, VILLAGE- KARAD,TALUKA- 
+KARAD, DISTRICT- SATARA.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1187,RIVER MALPRABHA AT D/S OF KHANAPUR VILLAGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1164,"RIVER MALAPRABHA AT WATER ABSTRACTION POINT 
+TO HUBLI, DHARWAD",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2764,RIVER MALAPRABHA AT BADAMI BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1186,RIVER MALAPRABHA AT D/S OF AIHOLE TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,4098,RIVER MARKANDEYA AT RAKKASAKOPPA RESRVOIR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2193,"RIVER MULA AT AUNDH BRIDGE, VILLAGE- 
+AUNDHGAON,TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2194,"RIVER MULA AT HARRISON BRIDGE NEAR MULA-
+PAWANA SANGAM, VILLAGE- BOPODI,TALUKA- HAWELI, 
+DISTRICT- PUNE.",,MAHARASHTRA  27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2192,"RIVER MULA-MUTHA  AT MUNDHAWA BRIDGE,VILLAGE- 
+MUNDHAWA,TALUKA- HAWELI,DISTRICT- PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,2677,"RIVER MULA-MUTHA AT D/S OF THEUR, VILLAGE. 
+THEUR, TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,1177,"RIVER MUNNERU B/C WITH KRISHNA, KEESARA (V & M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_86.csv,4251,"RIVER KRISHNA - D/S OF MUNNERU RIVER, PRAKASH 
+NAGAR, KHAMMAM",,TELANGANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2680,"RIVER MUTHA  AT KHADAKVASLA DAM, VILLAGE- 
+KHADAKVASLA,TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2679,"RIVER MUTHA AT DECCAN BRIDGE, VILLAGE- 
+DECCAN,TALUKA- PUNE, DISTRICT- PUNE.",,MAHARASHTRA  27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2678,"RIVER MUTHA  NEAR VEER SAVARKAR BHAVAN, 
+VILLAGE- PUNE  M.C, TALUKA- PUNE, DISTRICT -PUNE.",,MAHARASHTRA  27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2191,"RIVER MUTHA AT SANGAM BRIDGE NEAR 
+GANAPATHYGHAT, VILLAGE. SHIVAJI NAGAR, TALUKA. 
+PUNE, DISTRICT. PUNE.",,MAHARASHTRA  27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,1904,"RIVER PANCHAGANGA AT U/S OF KOLHAPUR TOWN 
+NEAR BALINGA PUMPING STATION, VILLAGE-BALINGA, 
+TALUKA- KARVIR, DISTRICT- KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,1905,"RIVER PANCHAGANGA AT D/S OF KOLHAPUR TOWN AT 
+GANDHI NAGAR NEAR NH.4 BRIDGE AND MIDC, VILLAGE. 
+UCHEGAON, TALUKA. KOLHAPUR, DISTRICT. 
+KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,1311,"RIVER PANCHAGANGA AT ICHALKARANJI NEAR MIDC 
+INTAKE WELL. VILLAGE. SHIRADHWAD (ICHALKARANJI 
+GHAT), TALUKA.HATKANANGALE, DISTRICT. KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2163,"RIVER PANCHAGANGA AT SHIROL NEAR SHIROL INTAKE 
+WELL, VILLAGE- SHIROL, TALUKA- SHIROL, DISTRICT- 
+KOLHAPUR.",,MAHARASHTRA  24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2196,"RIVER PAWANA AT SANGAVIGAON,  VILLAGE- 
+SANGAVIGAON, TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2692,"RIVER PAWANA AT RAVET WEIR, VILLAGE. RAVET, 
+TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2693,"RIVER PAWANA AT CHINCHWADGAON, VILLAGE. 
+CHINCHWADGAON, TALUKA. HAWELI, DISTRICT. PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2694,"RIVER PAWANA  AT PIMPRIGAON, VILLAGE- 
+PIMPRIGAON, TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2690,"RIVER PAWANA  AT KASARWADI, VILLAGE- KASARWADI, 
+TALUKA- HAWELI, DISTRICT- PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2691,"RIVER PAWANA  AT  DAPODI BRIDGE, AT PAWANA- 
+MULLA SANGAM,  VILLAGE- DAPODI, TALUKA- HAWELI, 
+DISTRICT- PUNE.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,2705,"RIVER SINA   NEAR LABOTI TOLL NAKA, VILLAGE. 
+LABOTI, TALUKA. MOHAL, DISTRICT. SOLAPUR.",,MAHARASHTRA  28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,1168,RIVER TUNGA AT D/S OF SHIMOGA TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_87.csv,4106,RIVER TUNGA U/S SHIVAMOGGA CITY,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,1896,"RIVER TUNGABHADRA AT CONFLUENCE POINT OF 
+TUNGA AND BHADRA AT KUDLI",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,38,RIVER TUNGABHADRA AT HONNALI BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,1029,RIVER TUNGABHADRA AT HARALAHALLI BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,2766,RIVER TUNGABHADRA AT NEW BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,2770,"RIVER TUNGABHADRA AT HARIHAR WATER SUPPLY 
+INTAKE",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,2769,RIVER TUNGABHADRA AT JACKWELL POINT,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5591,RIVER TUNGABHADRA AT NADIHARALAHALLI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5592,RIVER TUNGABHADRA  AT AIRANI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,4495,RIVER TUNGABHADRA AT ARAVI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5593,RIVER TUNGABHADRA AT HIREBIDARI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5594,RIVER TUNGABHADRA AT KONANATHAMBIGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5595,RIVER TUNGABHADRA AT SOMALAPURA,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,5596,RIVER TUNGABHADRA AT KURUVATHI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,4494,RIVER TUNGABHADRA AT MYLARA,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,2776,RIVER TUNGABHADRA AT D/S OF GANGAWATHI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,29,RIVER TUNGABHADRA AT ULENOOR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,3558,"RIVER TUNGABHADRA AT DADESUGUR BRIDGE 
+GAUGING STATION",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,1785,RIVER TUNGABHADRA AT MANTHRALAYAM (V & M),,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,1174,"RIVER TUNGABHADRA AT KURNOOL U/S, BHAVAPURAM 
+(V), KURNOOL (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,4388,"RIVER TUNGABHADRA, UPSTREAM OF KURNOOL TOWN 
+BEFORE JOINING CITY DOMESTIC SEWAGE AND AFTER 
+M/S RAYALASEEMA ALKALIES INDUSTRIES NEAR 
+SIVALAYAM TEMPLE, GONDIPARLA (V), KURNOOL (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,4389,"RIVER TUNGABHADRA, DOWNSTREAM OF KURNOOL 
+TOWN AFTER JOINING CITY DOMESTIC SEWAGE, 
+PADIDEMPADU (V),",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_88.csv,4379,"RIVER UPPUTERU BEFORE CONFLUENCE WITH SEA, AT 
+CHINNA GOLLAPALEM  (V), KRUTHIVENNU (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_89.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_89.csv,2711,"RIVER URMODI  AT NAGTHNE KT WARE, VILLAGE- 
+NAGTHANE,TALUKA- SATARA, DISTRICT- SATARA.",,MAHARASHTRA  25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_89.csv,2715,"RIVER VEL AT SHIKRAPUR, VILLAGE. SHIKRAPUR, 
+TALUKA. SHIRUR, DISTRICT. PUNE.",,MAHARASHTRA  26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,1307,RIVER CHUNT KOL (MAULANA AZAD BRIDGE),,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,4030,"RIVER SWAN BEFORE CONF. OF GARNI KHAD AT 
+CHURURU",,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,4031,RIVER SWAN AFTER CONF. GARNI KHAD AT CHURURU,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,1869,RIVER SWAN D/S  BELA BATHARI (BHANGLA),,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3856,RIVER SWAN U/S INDUSTRIAL AREA GAGRET,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3857,RIVER SWAN D/S INDUSTRIAL AREA GAGRET,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3858,RIVER SWAN U/S SANTOSHGARH BRIDGE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3859,RIVER SWAN U/S UNA TOWN AT GHALLUWAL BRIDGE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,30011,"RIVER SWAN AT DHANGLA VILLAGE, SANTOSHGARH 
+(PUNJAB)",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,4433,RIVER SWAN D/S OF UNA AT RAMPUR BRIDGE,,"HIMACHAL 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,2758,"RIVER UJH AT DAM SITE(L.H.S.), KATHUA",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,2913,"RIVER KALI BEIN FALLING INTO BEAS, PUNJAB",,PUNJAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3278,RIVER  LIDDER  AT LARIPORA,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3279,RIVER  LIDDER  AT CLUB PARK,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3280,RIVER LIDDER  AT BUS ADDA,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3281,"RIVER  LIDDER AT YANEER, D/S OF PHALGUM",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3282,"RIVER LIDDER  NERA BUMZOO, ANANTNAG",,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,4051,RIVER LIDDER AT NUNWAN,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,4052,RIVER LIDDER NEAR LAVENDER PARK,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_9.csv,3283,RIVER SINDH AT SONAMARG U/S,,"JAMMU & 
+KASHMIR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,1255,"RIVER PENNAR B/C WITH CHITRAVATHI, TADIPATRI (M), 
+VENGANUR (V)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,1256,"RIVER PENNAR A/C WITH PAPAGNI, PUSHPAGIRI 
+(V),VALLUR (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,1257,"RIVER PENNAR A/C WITH CHEYYURU, SOMASILA (V), 
+ANANTHASAGARAM (M)",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,30,RIVER PENNAR AT SIDDAVATAM (V & M),,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,2351,"RIVER KUNDU, NANDYAL, NEAR OVER BDG.,NANDYAL 
+TOWN",,"ANDHRA 
+PRADESH",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_90.csv,1689,"CHUNNAMBAR RIVER, KILINJIKUPPAM ROAD, 
+NONANKUPPAM, PUDUCHERRY.",,PUDUCHERRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_91.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_91.csv,1198,RIVER CAUVERY AT NAPOKULU BDG (D/S),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_91.csv,1195,"RIVER CAUVERY AT KUSHAL NAGAR U/S (NEAR 
+BAICHANAHALLI)",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_91.csv,33,"RIVER CAUVERY AT KRS DAM, BALAMURIKSHETRA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,1171,"RIVER CAUVERY AT SRI RANGAPATTANNA, D/S OF 
+ROAD BDG.",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,1386,RIVER CAUVERY AT D/S OF KAREKUARA VILLAGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,34,RIVER CAUVERY AT SATHYAGALAM BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,2773,RIVER CAUVERY AT BANNUR BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,2774,RIVER CAUVERY AT RANGANATHITTU,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3566,RIVER CAUVERY AT KRS DAM MANDYA,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3568,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT TO 
+SRIRANGAPATNA TOWN",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3569,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT TO 
+MANDYA TOWN",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3570,RIVER CAUVERY D/S OF KR NAGAR BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3571,RIVER CAUVERY U/S OF KR NAGAR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3573,RIVER CAUVERY D/S OF KUSHALANAGAR TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3576,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT TO 
+MYSORE",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3578,"RIVER CAUVERY D/S OF MADDUR WATER SUPPLY 
+TREATMENT PLANT AT BACHALLI",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3579,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT AT 
+KOLLEGALA DASANAPURA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3581,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT AT 
+TORE KADANA HALLI",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,4109,RIVER CAUVERY BEFORE CONFLUENCE AT SANGAM,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,4099,"RIVER CAUVERY D/S BHARACHUKI FALLS, SATHEGALA, 
+KOLLEGALA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,4102,RIVER CAUVERY D/S AT BHAGAMANDALA BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,4103,"RIVER CAUVERY D/S AT KANIVE RAMALINGESWARA 
+TEMPLE BRIDGE, KUSHALANAGAR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,30052,RIVER CAUVERY AT AJJIBORE (BANGALORE),,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,50,RIVER CAUVERY AT METTUR,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,51,RIVER CAUVERY AT PALLIPPALAYAM,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,1320,"RIVER CAUVERY AT ERODE NEAR VIRAPALAYAM,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_92.csv,3015,"RIVER CAUVERY AT PUGALUR, KARUR, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1324,"RIVER CAUVERY AT MOHANUR NEAR PATTAIPALAYAM, 
+TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1451,"RIVER CAUVERY AT THIRUMUKKUDAL-CONFL. PT.OF R. 
+AMRAVATI, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,31,RIVER CAUVERY AT MUSIRI,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3016,"RIVER CAUVERY AT PETTAIVAITHALAI, TRICHY,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1202,"RIVER CAUVERY AT TIRUCHIRAPPALLI U/S, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1325,"RIVER CAUVERY AT TIRUCHIRAPPALLI D/S, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1203,"RIVER CAUVERY AT TRICHY, GRAND ANAICUT,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1206,"RIVER CAUVERY AT KARUTHATTANUDI  THANJAVUR,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3012,"RIVER CAUVERY AT KOMARAPALAYAM, NAMAKAL,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3013,"RIVER CAUVERY AT URRACHIKOTTAI, ERODE,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3014,"RIVER CAUVERY AT SEERAPALAYAM, NAMAKAL,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,4827,RIVER CAUVERY LOCATIONS AT KUMARAPALAYAM,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3017,"RIVER CAUVERY AT KUMBAKONAM, THANJAVUR,",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1326,"RIVER CAUVERY AT COLEROON, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1327,"RIVER CAUVERY AT PITCHAVARAM, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,1322,"RIVER CAUVERY AT 1KM. D/S OF BHAVANI CONFL.,R.N. 
+PUNDUR, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10064,RIVER CAUVERY AT BHAWANI D/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10065,RIVER CAUVERY AT ERODE U/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10067,RIVER CAUVERY AT KUMARAPALAYAM U/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10070,RIVER CAUVERY AT PALLIPALAYAM D/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10073,RIVER CAUVERY AT KARUR U/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,10078,RIVER CAUVERY AT MAYILADUTHURAI D/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,3580,"RIVER CAUVERY AT WATER SUPPLY INTAKE POINT AT 
+SHIVANSAMUDRA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_93.csv,5587,"RIVER CAUVERY AT BALMAVATI BRIDGE TO THANDRA 
+HOLE TRIBUTARY",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5583,RIVER CAUVERY  D/S AT KONDANAGIRI BRIDGE,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5584,"RIVER CAUVERY  D/S OF AT BETHRI BRIDGE , MURNAD",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5585,"RIVER CAUVERY  D/S OF AT NELLU DIKERI BRIDGE, 
+SIDDAPURA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5586,"RIVER CAUVERY D/S OF AT DUBARE, HANGING BRIDGE 
+(THEPPA DA KINDI)",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5590,"RIVER CAUVERY AT GANJAM WATER SUPPLY INTAKE 
+POINT NEAR GOSAI GHAT, SRIRANGAPATNA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5580,"RIVER CAUVERY  ATGANJAM WATER SUPPLY INTAKE 
+POINT NEAR GOSAI GHAT, SRIRANGAPATNA,MAYDYA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5579,"RIVER CAUVERY  AT KARIGHATTA NIMISHAMBA TEMPLE 
+ROAD BRIDGE SRIRANGAPATNA,MAYDYA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,5581,"RIVER CAUVERY  AT MAHADEVPURA ROAD 
+BRIDGE,MAYDYA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,1323,RIVER CAUVERY ATPARAMATHY  VELORE  TAMILNADU,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_94.csv,3015,"RIVER CAUVERY AT PUGALUR, KARUR, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,1205,"RIVER BHAVANI AT BHAVANI, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,1201,"RIVER BHAVANI AT BADTHARAKALIAMMAN KOIL, 
+TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,1204,"RIVER BHAVANI AT SIRUMUGAI, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,1321,"RIVER BHAVANI AT BHAVANI SAGAR, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_95.csv,3019,"RIVER BHAVANI AT D/S OF BHAVANISAGAR, 
+SATHYAMANGALAM, ERODE, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3020,"RIVER BHAVANI AT U/S OF KALINGARAYAN CANAL (B5), 
+ERODE, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3021,"RIVER BHAVANI AT D/S OF KALINGARAYAN CANAL (B10), 
+ERODE, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1199,"RIVER HEMAVATHI AT D/S OF HOLENARASIPURA TOWN 
+AT RAMADEV WEIR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1166,"RIVER SHIMSHA AT D/S OF BRIDGE, HALAGUR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1200,"RIVER SHIMSHA AT D/S OF HIGHWAY BRIDGE, YEDIYUR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3567,RIVER SHIMSHA D/S NEAR MADDUAR TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3022,"RIVER THIRUMANIMUTHAR AT SALEM, D/S OF SAGO & 
+TEXTILE DYING INDUSTRIES, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3023,"RIVER VASISTA AT THULUKANNUR AT SALEM, D/S OF 
+SAGO INDUSRIES EFFLUENT, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1319,"RIVER AMRAVATI AT 1KM D/S FROM EFF.DIS. PT. AT 
+MADHUTHUKKULAM",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,4812,"RIVER LOCATED ON THE SOUTHERN BANK OF 
+AMARAVATHI AND DOWNSTREAM SIDE OF KARUR 
+DYEING CLUSTER",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,4813,"RIVER LOCATED ADJACENT TO KARU MSW DUMP SITE 
+AND ON THE NORTHERN BANK OF AMARAVATHI AND 
+DOWNSTREAM SIDE OF KARU DYEING CLUSTER",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1165,RIVER ARKAVATHI AT D/S OF KANAKAPURA TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,2779,RIVER ARKAVATHI AT HESARAGHATTA RESERVOIR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,4108,RIVER AKRAVATHI BEFORE CONFLUENCE AT SANGAM,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,41,RIVER KABINI AT CAUSE WAY SATTUR,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1197,RIVER KABINI AT SARAGUR VILLAGE D/S,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1207,"RIVER KABANI AT MUTHANKARA, WAYANAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,1445,"RIVER KABINI AT WATER INTAKE OF KIADB AT 
+NANJANGUD",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,2775,"RIVER KABINI AT BATHING GHAT, NANJANAGUD",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_96.csv,3575,"RIVER KABINI U/S INTAKE POINT TO NANJANAGUD & 
+GUNDLUPET AT DEBUR",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,3577,"RIVER KABINI AT WATER SUPPLY INTAKE POINT TO T. 
+NARASIPURA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,1196,RIVER LAKSHMANTIRTHA AT D/S OF HUNSUR TOWN,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,2772,RIVER LAKSHMANTIRTHA AT D/S OF KATTEMALAVADI,,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,3572,"RIVER LAKSHMANTIRTHA AT WATER SUPPLY INTAKE 
+POINT TO HUNSUR TOWN",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,3024,"RIVER SARABANGA AT EDAPADI AT SALEM, D/S OF 
+TEXTILE DYEING INDUSTRIES EFFLUENT, TAMILNADU",,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10034,RIVER ADYAR AT EKKATTUTHANGAL,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10035,RIVER ADYAR AT JAFERKHANPET,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10036,RIVER ADYAR AT MARAIMALAI BRIDGE,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10038,RIVER ADYAR AT KOTTURPURAM BRIDGE,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10039,RIVER ADYAR NEAR BOAT CLUB,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10040,RIVER COOUM AT ANNA NAGAR,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10041,RIVER COOUM AT ARUMBAKKAM,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10042,RIVER COOUM AT AMANJIKARAI,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10043,RIVER COOUM AT POONAMALLE,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10044,RIVER COOUM AT COLLAGE ROAD,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10045,RIVER COOUM NEAR CENTRAL JAIL,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10046,RIVER COOUM AT NAPIER BRIDGE,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10059,RIVER VAIGAI AT MADURAI U/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10060,RIVER VAIGAI AT MADURAI D/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10057,RIVER VENNAR AT THANJAVUR U/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,10058,RIVER VENNAR AT THANJAVUR D/S,,TAMIL NADU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,5578,"RIVER SHIMSHA DOWNSTREAM OF MADDUR NEAR 
+VYDYANATHESWARA TEMPLE ROAD BRIDGE,MAYDYA",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,4501,"RIVER ARKAVATHI AT MANCHANBELE RESERVOIR, 
+MANCHANABALE DAM",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,1208,"RIVER BHAVANI AT ELACHIVAZHY, PALAKKAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,5228,"RIVER KABANI AT MUTHANGA,WAYANAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,5229,"RIVER KABANI AT BANASURA SAGAR DAM AT 
+KALPETTA,WAYANAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_97.csv,5227,"RIVER KALINDI AT BAVALI, WAYANAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_98.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_98.csv,5226,"RIVER PAPANASINI AT THIRUNELLY, WAYANAD",,KERALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_98.csv,30053,"RIVER THENPENNAIYAR AT CHOKKARASANAHALLI 
+BRIDGE (BANGALORE)",,KARNATAKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,"Primary Water Quality Criteria notified under The E (P) Rules, 1986",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,23,"RIVER SUBARNAREKHA AT RANCHI, (TATISILWAI)",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,24,RIVER SUBARNAREKHA AT JAMSHEDPUR,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,48,RIVER SUBARNAREKHA AT CHANDIL BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,49,"RIVER SUBARNAREKHA AT D/S JAMSHEDPUR, (TATA 
+NAGAR)",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,1641,RIVER SUBARNAREKHA AT RAJGHAT (THENGUDIA),,ODISHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2385,RIVER SUBARNAREKHA AT NAMKUM ROAD BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2386,RIVER SUBARNAREKHA AT MURI ROAD BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2387,RIVER SUBARNAREKHA AT GHATISLA ROAD BRIDGE,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2395,RIVER SUBARNAREKHA AT HATIA DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2397,RIVER SUBARNAREKHA AT GATALSUD DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,2399,RIVER SUBARNAREKHA AT CHANDIL DAM,,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4743,"RIVER SUBARNAREKHA U/S HCL GHATSHILA, E.S",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4744,"RIVER SUBARNAREKHA BEFORE MEETING KHARKAI 
+RIVER",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4746,"RIVER SUBARNAREKHA AFTER CONFLUENCE OF 
+KHARKAI RIVER",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4748,"RIVER SUBARNAREKHA AT BAHARAGORA ROAD 
+BRIDGE, P.O- BAHARAGORA, E.S",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4749,"RIVER SUBARNAREKHA, NEAR RING ROAD BRIDGE 
+SEMBO, NAGRI, RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+table_99.csv,4084,"RIVER SURBARNREKHA AT HATIA ROAD BRIDGE, 
+RANCHI",,JHARKHAND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
