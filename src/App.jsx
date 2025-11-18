@@ -4,6 +4,7 @@ import LandingPage from './components/LandingPage'
 import Dashboard from './components/Dashboard'
 import EmergencyRequest from './components/EmergencyRequest'
 import AshaReport from './components/AshaReport'
+import OfficialDashboard from './components/OfficialDashboard'
 import './App.css'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path="/" element={<LandingPage />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/asha-report" element={<AshaReport />} />
+          <Route path="/official-dashboard" element={<OfficialDashboard />} />
         </Routes>
       </BrowserRouter>
     )
@@ -50,6 +52,19 @@ function App() {
             <>
               <SignedIn>
                 <AshaReport />
+              </SignedIn>
+              <SignedOut>
+                <Navigate to="/" replace />
+              </SignedOut>
+            </>
+          }
+        />
+        <Route 
+          path="/official-dashboard" 
+          element={
+            <>
+              <SignedIn>
+                <OfficialDashboard />
               </SignedIn>
               <SignedOut>
                 <Navigate to="/" replace />

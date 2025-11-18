@@ -1,4 +1,4 @@
-import { addDoc, collection, serverTimestamp, doc, setDoc } from 'firebase/firestore'
+import { addDoc, collection, serverTimestamp, doc, setDoc, getDocs, query, orderBy } from 'firebase/firestore'
 import { db } from './firebase'
 
 const emergencyCollection = collection(db, 'emergencyReports')
@@ -13,12 +13,38 @@ export const saveEmergencyReport = async (data) => {
   await addDoc(emergencyCollection, payload)
 }
 
+export const fetchEmergencyReports = async () => {
+  const q = query(emergencyCollection, orderBy('submittedAt', 'desc'))
+  const snapshot = await getDocs(q)
+  return snapshot.docs.map(docSnap => {
+    const data = docSnap.data()
+    return {
+      id: docSnap.id,
+      ...data,
+      submittedAt: data.submittedAt ? data.submittedAt.toDate().toISOString() : null
+    }
+  })
+}
+
 export const saveAshaWorkerReport = async (data) => {
   const payload = {
     ...data,
     submittedAt: serverTimestamp()
   }
   return addDoc(ashaCollection, payload)
+}
+
+export const fetchAshaReports = async () => {
+  const q = query(ashaCollection, orderBy('submittedAt', 'desc'))
+  const snapshot = await getDocs(q)
+  return snapshot.docs.map(docSnap => {
+    const data = docSnap.data()
+    return {
+      id: docSnap.id,
+      ...data,
+      submittedAt: data.submittedAt ? data.submittedAt.toDate().toISOString() : null
+    }
+  })
 }
 
 export const logVisitorLogin = async (data) => {

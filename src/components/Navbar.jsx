@@ -46,14 +46,15 @@ function Navbar() {
   // Get menu items (filtering out disabled items)
   const getMenuItems = () => {
     const items = []
-    items.push({ type: 'link', to: '/', label: 'Landing Page', icon: '🏠', enabled: true })
-    
-    items.push({ type: 'link', to: '/emergency-request', label: 'Emergency Request', icon: '🚨', enabled: true })
-    
-    // Check if user is signed in for dashboard
     const isSignedIn = user !== null && user !== undefined
+
+    items.push({ type: 'link', to: '/', label: 'Landing Page', icon: '🏠', enabled: true })
+
     if (isSignedIn) {
       items.push({ type: 'link', to: '/dashboard', label: 'Dashboard', icon: '📊', enabled: true })
+      items.push({ type: 'link', to: '/asha-report', label: 'ASHA Report', icon: '📝', enabled: true, external: true })
+      items.push({ type: 'link', to: '/official-dashboard', label: 'Officials Dashboard', icon: '🗺️', enabled: true, external: true })
+      items.push({ type: 'link', to: '/emergency-request', label: 'Emergency Request', icon: '🚨', enabled: true })
     } else {
       items.push({ type: 'div', label: 'Dashboard (Sign in required)', icon: '📊', enabled: false })
     }
@@ -279,7 +280,13 @@ function Navbar() {
                       ref={el => menuItemsRef.current[index] = el}
                       to={item.to}
                       className={`dropdown-item ${location.pathname === item.to ? 'active' : ''}`}
-                      onClick={closeDropdown}
+                      onClick={(e) => {
+                        closeDropdown()
+                        if (item.external) {
+                          e.preventDefault()
+                          window.open(`${window.location.origin}${item.to}`, '_blank', 'noopener,noreferrer,width=1200,height=900')
+                        }
+                      }}
                       role="menuitem"
                       tabIndex={isDropdownOpen ? 0 : -1}
                     >

@@ -506,14 +506,6 @@ function Dashboard() {
 
       <main className="dashboard-main">
         <div className="dashboard-grid">
-          <button
-            type="button"
-            className="asha-button standalone"
-            onClick={openAshaReportWindow}
-          >
-            Open ASHA Worker Report
-          </button>
-
           <div className="dashboard-card map-card">
             <h2 className="card-title">Check Location</h2>
             <p className="map-description">
@@ -701,6 +693,20 @@ function Dashboard() {
                 )}
               </button>
             </form>
+          </div>
+
+          <div className="dashboard-card emergency-card">
+            <h2 className="card-title">Quick Emergency Request</h2>
+            <p className="emergency-description">
+              Spot unusual water conditions? Submit an emergency request for officials to respond faster.
+            </p>
+            <button
+              type="button"
+              className="official-button"
+              onClick={() => window.location.href = '/emergency-request'}
+            >
+              Go to Emergency Request Form
+            </button>
           </div>
 
           {/* Prediction Results */}
