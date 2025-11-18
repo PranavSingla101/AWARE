@@ -29,21 +29,47 @@ model = None
 imputer = None
 label_encoder = None
 features = None
+uses_pipeline = False
 
 @app.on_event("startup")
 async def load_model():
     """Load the ML model, imputer, and label encoder on startup"""
-    global model_data, model, imputer, label_encoder, features
+    global model_data, model, imputer, label_encoder, features, uses_pipeline
     
     if not MODEL_PATH.exists():
         raise FileNotFoundError(f"Model file not found at {MODEL_PATH}. Please train the model first.")
     
     try:
         model_data = joblib.load(MODEL_PATH)
-        model = model_data['model']
-        imputer = model_data['imputer']
-        label_encoder = model_data['label_encoder']
-        features = model_data['features']
+        
+        if isinstance(model_data, dict):
+            # Newer artifact format (recommended)
+            if 'model' in model_data:
+                model = model_data['model']
+                imputer = model_data.get('imputer')
+                label_encoder = model_data.get('label_encoder')
+                features = model_data.get('features')
+                uses_pipeline = False
+            elif 'pipeline' in model_data:
+                # Backward compatibility for pipeline artifacts
+                model = model_data['pipeline']
+                imputer = None
+                label_encoder = model_data.get('label_encoder')
+                features = model_data.get('features')
+                uses_pipeline = True
+            else:
+                raise KeyError("Model artifact must contain either 'model' or 'pipeline'.")
+        else:
+            # Fallback: assume the entire object is a trained estimator/pipeline
+            model = model_data
+            imputer = None
+            label_encoder = getattr(model_data, 'label_encoder_', None)
+            features = getattr(model_data, 'feature_names_in_', None)
+            uses_pipeline = True
+
+        if label_encoder is None or features is None:
+            raise ValueError("Model artifact missing required keys: 'label_encoder' and/or 'features'.")
+
         print(f"✅ Model loaded successfully from {MODEL_PATH}")
         print(f"   Features: {features}")
         print(f"   Classes: {label_encoder.classes_}")
@@ -125,7 +151,7 @@ async def predict_risk(input_data: WaterQualityInput):
     except Exception as e:
         print(f"❌ Error processing input: {e}")
     
-    if model is None or imputer is None or label_encoder is None:
+    if model is None or label_encoder is None or features is None:
         raise HTTPException(
             status_code=503,
             detail="Model not loaded. Please check server logs."
@@ -138,24 +164,26 @@ async def predict_risk(input_data: WaterQualityInput):
         # Create DataFrame with the input data
         x_new = pd.DataFrame([input_dict])
         
-        # Ensure columns are in the correct order
+        # Ensure columns are in the correct order and include all required features
         x_new = x_new.reindex(columns=features)
         
-        # Impute missing values (if any)
-        x_new_imputed = imputer.transform(x_new)
-        
-        # Convert back to DataFrame with feature names
-        x_new_imputed = pd.DataFrame(x_new_imputed, columns=features, index=x_new.index)
+        if imputer is not None and not uses_pipeline:
+            # Legacy artifact: impute manually before feeding raw model
+            x_new_imputed = imputer.transform(x_new)
+            x_ready = pd.DataFrame(x_new_imputed, columns=features, index=x_new.index)
+        else:
+            # Pipeline-based artifact handles preprocessing itself
+            x_ready = x_new
         
         # Make prediction
-        prediction = model.predict(x_new_imputed)
+        prediction = model.predict(x_ready)
         
         # Get predicted risk level
         risk_level = label_encoder.inverse_transform(prediction)[0]
         
         # Get prediction probabilities for confidence
         if hasattr(model, 'predict_proba'):
-            probabilities = model.predict_proba(x_new_imputed)[0]
+            probabilities = model.predict_proba(x_ready)[0]
             confidence = float(max(probabilities)) * 100
         else:
             confidence = None
