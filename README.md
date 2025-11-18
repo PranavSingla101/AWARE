@@ -209,6 +209,93 @@ npm run dev
 
 The dashboard will automatically connect to the ML model API for real predictions!
 
+## Synthetic Sensor Simulator
+
+The synthetic sensor simulator generates live water quality data and feeds it to the forecast model for real-time predictions.
+
+### Prerequisites
+
+- Trained forecast model: `extract/rf_forecast_model.joblib` (train using `extract/AWARE_random_forest.ipynb`)
+- Python 3.7+ with required packages (pandas, numpy, scikit-learn, joblib)
+
+### Usage
+
+1. **Navigate to the extract folder:**
+```bash
+cd extract
+```
+
+2. **Run the synthetic sensor:**
+```bash
+python3 synthetic_sensors.py
+```
+
+3. **Use CLI commands:**
+   - `on` - Start the sensor (begins generating readings and predictions)
+   - `off` - Stop the sensor
+   - `status` - Check sensor status and history buffer
+   - `exit` - Quit the program
+
+### How It Works
+
+- **Generates synthetic readings** every 5 seconds based on historical data patterns
+- **Maintains a history buffer** of the last L readings (L=3 by default)
+- **Builds lag features** from the reading history
+- **Makes forecasts** using the trained model (H=1 horizon)
+- **Displays results** with risk level predictions and confidence scores
+
+### Example Session
+
+```bash
+$ python3 synthetic_sensors.py
+============================================================
+AWARE Synthetic Sensor Simulator
+============================================================
+✅ Loaded forecast model: L=3, H=1
+   Features: 24 lag features
+✅ Loaded value ranges for 8 features
+
+Commands:
+  'on'     - Start sensor
+  'off'    - Stop sensor
+  'status' - Check sensor status
+  'exit'   - Quit program
+============================================================
+
+> on
+✅ Sensor started in background thread.
+
+🟢 Sensor started. Generating readings...
+============================================================
+
+[2024-01-15 10:30:05] Sensor Reading:
+  Temp            :    28.45
+  DO              :     5.23
+  pH              :     7.15
+  ...
+
+  📊 Forecast (H=1):
+     Risk Level: Medium
+     Confidence: 87.3%
+
+> status
+Sensor Status: 🟢 RUNNING
+  History buffer: 3/3 readings
+  Update interval: 5 seconds
+  Ready for predictions: Yes
+
+> off
+✅ Sensor stopped.
+🔴 Sensor stopped.
+
+> exit
+👋 Goodbye!
+```
+
+### Configuration
+
+You can modify the update interval by editing `UPDATE_INTERVAL` in `synthetic_sensors.py` (default: 5 seconds).
+
 ## License
 
 MIT
