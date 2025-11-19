@@ -166,11 +166,35 @@ class SyntheticSensor:
             }
     
     def generate_sensor_reading(self) -> Dict[str, float]:
-        """Generate a synthetic sensor reading based on historical data ranges"""
+        """
+        Generate a synthetic sensor reading.
+        
+        To better exercise the ML model we sample with multiple behaviours:
+        - baseline gaussian samples around the historical mean
+        - uniform sweeps that cover the full min/max span
+        - extreme bursts that hug the boundaries (min / max) to trigger edge cases
+        """
         reading = {}
         for feat, ranges in self.value_ranges.items():
-            # Generate value using normal distribution, clamped to min/max
-            value = np.random.normal(ranges['mean'], ranges['std'])
+            mode = np.random.rand()
+            
+            if mode < 0.45:
+                # Baseline gaussian but with a randomly inflated std so it wanders more
+                std_boost = np.random.uniform(1.0, 2.5)
+                value = np.random.normal(ranges['mean'], ranges['std'] * std_boost)
+            elif mode < 0.8:
+                # Full-span sweep using uniform sampling inside min/max
+                value = np.random.uniform(ranges['min'], ranges['max'])
+            else:
+                # Edge-case burst towards min or max with a bit of overshoot
+                if np.random.rand() < 0.5:
+                    overshoot = (ranges['max'] - ranges['min']) * np.random.uniform(0.0, 0.15)
+                    value = ranges['min'] - overshoot
+                else:
+                    overshoot = (ranges['max'] - ranges['min']) * np.random.uniform(0.0, 0.15)
+                    value = ranges['max'] + overshoot
+            
+            # Clamp inside safe bounds and round for readability
             value = np.clip(value, ranges['min'], ranges['max'])
             reading[feat] = round(float(value), 2)
         return reading
