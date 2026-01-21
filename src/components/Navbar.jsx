@@ -5,6 +5,70 @@ import './Navbar.css'
 import { logVisitorLogin } from '../services/reportService'
 import { hasOfficialAccess } from '../utils/accessControl'
 
+// Check if Clerk is configured
+const isClerkConfigured = !!(import.meta.env.VITE_CLERK_PUBLISHABLE_KEY || import.meta.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY)
+
+// Component that uses Clerk hooks - only rendered when Clerk is configured
+// This component MUST always call useUser() unconditionally (React rules)
+function ClerkAuthSection({ onUserButtonClick, userButtonRef }) {
+  // Always call the hook - this component only renders when Clerk is configured
+  const { user } = useUser()
+  
+  return (
+    <>
+      <SignedIn>
+        <button 
+          className="navbar-user-button"
+          onClick={onUserButtonClick}
+          type="button"
+          aria-label="User menu"
+        >
+          <span className="navbar-user-name">
+            {user?.firstName || user?.emailAddresses?.[0]?.emailAddress}
+          </span>
+          <span ref={userButtonRef}>
+            <UserButton afterSignOutUrl="/" />
+          </span>
+        </button>
+      </SignedIn>
+      
+      <SignedOut>
+        <SignInButton mode="modal">
+          <button 
+            className="navbar-user-button"
+            type="button"
+            aria-label="Sign in"
+          >
+            <span className="navbar-user-name">Sign In</span>
+            <span className="navbar-user-icon">👤</span>
+          </button>
+        </SignInButton>
+      </SignedOut>
+    </>
+  )
+}
+
+// Component to get user state for menu items - only rendered when Clerk is configured
+function NavbarMenuItems({ onUserChange }) {
+  if (!isClerkConfigured) {
+    // When Clerk is not configured, call callback with null user
+    useEffect(() => {
+      onUserChange(null, false)
+    }, [onUserChange])
+    return null
+  }
+  
+  // When Clerk is configured, use hooks to get user state
+  const { user } = useUser()
+  const canAccessOfficial = useMemo(() => hasOfficialAccess(user), [user])
+  
+  useEffect(() => {
+    onUserChange(user, canAccessOfficial)
+  }, [user, canAccessOfficial, onUserChange])
+  
+  return null
+}
+
 function Navbar() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false)
   const [focusedIndex, setFocusedIndex] = useState(-1)
@@ -13,10 +77,12 @@ function Navbar() {
   const buttonRef = useRef(null)
   const menuRef = useRef(null)
   const menuItemsRef = useRef([])
-  const { user } = useUser()
   const userButtonRef = useRef(null)
   const loggedVisitorsRef = useRef(new Set())
-  const canAccessOfficial = useMemo(() => hasOfficialAccess(user), [user])
+  
+  // State to track user for menu items
+  const [menuUser, setMenuUser] = useState(null)
+  const [menuCanAccessOfficial, setMenuCanAccessOfficial] = useState(false)
 
   const handleUserButtonClick = (e) => {
     // Prevent double-clicking if clicking directly on UserButton
@@ -45,23 +111,45 @@ function Navbar() {
     }
   }
 
+  // Handle scroll to section on landing page
+  const handleScrollToSection = (sectionId) => {
+    closeDropdown()
+    if (location.pathname !== '/') {
+      // If not on landing page, navigate first then scroll after a delay
+      window.location.href = `/#${sectionId}`
+      // Scroll will happen after page loads via useEffect in LandingPage
+    } else {
+      // Already on landing page, scroll immediately
+      setTimeout(() => {
+        const element = document.getElementById(sectionId)
+        if (element) {
+          const offset = 80 // Account for fixed navbar
+          const elementPosition = element.getBoundingClientRect().top
+          const offsetPosition = elementPosition + window.pageYOffset - offset
+          window.scrollTo({
+            top: offsetPosition,
+            behavior: 'smooth'
+          })
+        }
+      }, 100)
+    }
+  }
+
   // Get menu items (filtering out disabled items)
   const getMenuItems = () => {
     const items = []
-    const isSignedIn = user !== null && user !== undefined
-
-    items.push({ type: 'link', to: '/', label: 'Landing Page', icon: '🏠', enabled: true })
+    const isSignedIn = menuUser !== null && menuUser !== undefined
 
     if (isSignedIn) {
       items.push({ type: 'link', to: '/dashboard', label: 'Dashboard', icon: '📊', enabled: true })
-      if (canAccessOfficial) {
+      if (menuCanAccessOfficial) {
         items.push({ type: 'link', to: '/asha-report', label: 'ASHA Report', icon: '📝', enabled: true, external: true })
         items.push({ type: 'link', to: '/official-dashboard', label: 'Officials Dashboard', icon: '🗺️', enabled: true, external: true })
       }
       items.push({ type: 'link', to: '/emergency-request', label: 'Emergency Request', icon: '🚨', enabled: true })
     } else {
       items.push({ type: 'div', label: 'Dashboard (Sign in required)', icon: '📊', enabled: false })
-      items.push({ type: 'link', to: '/emergency-request', label: 'Emergency Request', icon: '🚨', enabled: true })
+      items.push({ type: 'div', label: 'Emergency Request (Sign in required)', icon: '🚨', enabled: false })
     }
     
     return items
@@ -71,34 +159,34 @@ function Navbar() {
 
   useEffect(() => {
     const recordLogin = async () => {
-      if (!user) return
+      if (!menuUser || !isClerkConfigured) return
 
       const email =
-        user?.primaryEmailAddress?.emailAddress ||
-        user?.emailAddresses?.[0]?.emailAddress ||
+        menuUser?.primaryEmailAddress?.emailAddress ||
+        menuUser?.emailAddresses?.[0]?.emailAddress ||
         ''
       const provider =
-        user?.externalAccounts?.[0]?.provider ||
+        menuUser?.externalAccounts?.[0]?.provider ||
         (email.toLowerCase().includes('gmail') ? 'google' : 'clerk')
       const isGoogleLogin =
         provider === 'google' || email.toLowerCase().endsWith('@gmail.com')
 
       if (!isGoogleLogin) return
-      if (loggedVisitorsRef.current.has(user.id)) return
+      if (loggedVisitorsRef.current.has(menuUser.id)) return
 
-      loggedVisitorsRef.current.add(user.id)
+      loggedVisitorsRef.current.add(menuUser.id)
       try {
         await logVisitorLogin({
-          userId: user.id,
+          userId: menuUser.id,
           email,
-          fullName: user.fullName || [user.firstName, user.lastName].filter(Boolean).join(' '),
+          fullName: menuUser.fullName || [menuUser.firstName, menuUser.lastName].filter(Boolean).join(' '),
           provider,
-          clerkUsername: user.username || null,
+          clerkUsername: menuUser.username || null,
           lastSignInAt:
-            (user.lastSignInAt instanceof Date
-              ? user.lastSignInAt
-              : user.lastSignInAt
-              ? new Date(user.lastSignInAt)
+            (menuUser.lastSignInAt instanceof Date
+              ? menuUser.lastSignInAt
+              : menuUser.lastSignInAt
+              ? new Date(menuUser.lastSignInAt)
               : new Date()
             ).toISOString()
         })
@@ -108,7 +196,7 @@ function Navbar() {
     }
 
     recordLogin()
-  }, [user])
+  }, [menuUser])
 
   // Close dropdown when clicking outside
   useEffect(() => {
@@ -223,35 +311,49 @@ function Navbar() {
           <img src="/aware_logo.png" alt="AWARE Logo" className="logo-image" />
         </Link>
         
+        {/* Desktop Navigation Links */}
+        <div className="navbar-links">
+          <Link 
+            to="/" 
+            className={`navbar-link ${location.pathname === '/' ? 'active' : ''}`}
+            onClick={closeDropdown}
+          >
+            Home
+          </Link>
+          <button
+            className={`navbar-link ${location.pathname === '/' ? 'scroll-link' : ''}`}
+            onClick={() => handleScrollToSection('methodology')}
+          >
+            Methodology
+          </button>
+          <button
+            className={`navbar-link ${location.pathname === '/' ? 'scroll-link' : ''}`}
+            onClick={() => handleScrollToSection('mission')}
+          >
+            Our Mission
+          </button>
+          <button
+            className={`navbar-link ${location.pathname === '/' ? 'scroll-link' : ''}`}
+            onClick={() => handleScrollToSection('contact')}
+          >
+            Contact
+          </button>
+        </div>
+        
         <div className="navbar-right">
-          <SignedIn>
-            <button 
-              className="navbar-user-button"
-              onClick={handleUserButtonClick}
-              type="button"
-              aria-label="User menu"
-            >
-              <span className="navbar-user-name">
-                {user?.firstName || user?.emailAddresses[0]?.emailAddress}
-              </span>
-              <span ref={userButtonRef}>
-                <UserButton afterSignOutUrl="/" />
-              </span>
-            </button>
-          </SignedIn>
+          {isClerkConfigured ? (
+            <ClerkAuthSection 
+              onUserButtonClick={handleUserButtonClick}
+              userButtonRef={userButtonRef}
+            />
+          ) : null}
           
-          <SignedOut>
-            <SignInButton mode="modal">
-              <button 
-                className="navbar-user-button"
-                type="button"
-                aria-label="Sign in"
-              >
-                <span className="navbar-user-name">Sign In</span>
-                <span className="navbar-user-icon">👤</span>
-              </button>
-            </SignInButton>
-          </SignedOut>
+          <NavbarMenuItems 
+            onUserChange={(user, canAccessOfficial) => {
+              setMenuUser(user)
+              setMenuCanAccessOfficial(canAccessOfficial)
+            }}
+          />
           
           <div className="navbar-menu" ref={dropdownRef}>
             <button 
@@ -298,6 +400,20 @@ function Navbar() {
                       <span className="dropdown-icon">{item.icon}</span>
                       {item.label}
                     </Link>
+                  )
+                } else if (item.type === 'scroll' && item.enabled) {
+                  return (
+                    <button
+                      key={index}
+                      ref={el => menuItemsRef.current[index] = el}
+                      className="dropdown-item"
+                      onClick={() => handleScrollToSection(item.sectionId)}
+                      role="menuitem"
+                      tabIndex={isDropdownOpen ? 0 : -1}
+                    >
+                      <span className="dropdown-icon">{item.icon}</span>
+                      {item.label}
+                    </button>
                   )
                 } else {
                   return (

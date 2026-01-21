@@ -95,9 +95,23 @@
   font-size: 2.5rem;
   font-weight: 800;
   line-height: 1.2;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   color: #ffffff;
   text-align: center;
+  background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 50%, #2563eb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.mission-tagline {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 2.5rem;
+  color: #cbd5e1;
+  text-align: center;
+  letter-spacing: 0.5px;
 }
 
 .mission-content {
@@ -110,9 +124,14 @@
 
 .mission-paragraph {
   font-size: 1.125rem;
-  line-height: 1.75;
-  color: #cbd5e1;
-  text-align: center;
+  line-height: 1.8;
+  color: #e2e8f0;
+  text-align: left;
+  margin: 0;
+}
+
+.mission-paragraph:first-of-type {
+  margin-top: 0;
 }
 
 @media (min-width: 768px) {
@@ -120,23 +139,116 @@
     font-size: 3rem;
   }
   
+  .mission-tagline {
+    font-size: 1.75rem;
+  }
+  
   .mission-paragraph {
     font-size: 1.25rem;
   }
 }
 
+.methodology-section,
+.contact-section {
+  margin: 4rem 0;
+  padding: 3rem 2rem;
+  background: rgba(30, 41, 59, 0.4);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  color: #ffffff;
+  text-align: center;
+  background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 50%, #2563eb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.methodology-content,
+.contact-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.methodology-paragraph,
+.contact-paragraph {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: #e2e8f0;
+  text-align: left;
+  margin: 0;
+}
+
+.contact-email {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.email-link {
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #60a5fa;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.email-link:hover {
+  background: rgba(59, 130, 246, 0.2);
+  border-color: rgba(59, 130, 246, 0.5);
+  color: #93c5fd;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+@media (min-width: 768px) {
+  .section-title {
+    font-size: 3rem;
+  }
+  
+  .methodology-paragraph,
+  .contact-paragraph {
+    font-size: 1.25rem;
+  }
+}
+
 @media (max-width: 768px) {
-  .mission-section {
+  .mission-section,
+  .methodology-section,
+  .contact-section {
     padding: 2rem 1.5rem;
     margin: 3rem 0;
   }
   
-  .mission-title {
+  .mission-title,
+  .section-title {
     font-size: 2rem;
   }
   
-  .mission-paragraph {
+  .mission-tagline {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  
+  .mission-paragraph,
+  .methodology-paragraph,
+  .contact-paragraph {
     font-size: 1rem;
+    text-align: left;
   }
 }
 

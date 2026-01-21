@@ -1,9 +1,31 @@
 import { Link } from 'react-router-dom'
 import { SignedIn } from '@clerk/clerk-react'
+import { useEffect } from 'react'
 import Navbar from './Navbar'
 import './LandingPage.css'
 
+// Check if Clerk is configured
+const isClerkConfigured = !!(import.meta.env.VITE_CLERK_PUBLISHABLE_KEY || import.meta.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY)
+
 function LandingPage() {
+  // Handle hash navigation (scroll to section from URL)
+  useEffect(() => {
+    const hash = window.location.hash.replace('#', '')
+    if (hash) {
+      setTimeout(() => {
+        const element = document.getElementById(hash)
+        if (element) {
+          const offset = 80 // Account for fixed navbar
+          const elementPosition = element.getBoundingClientRect().top
+          const offsetPosition = elementPosition + window.pageYOffset - offset
+          window.scrollTo({
+            top: offsetPosition,
+            behavior: 'smooth'
+          })
+        }
+      }, 300) // Delay to ensure page is fully loaded
+    }
+  }, [])
 
   return (
     <>
@@ -49,22 +71,38 @@ function LandingPage() {
           </div>
         </div>
 
-        <section className="mission-section">
-          <h2 className="mission-title">
-            Early Warnings.  Safer Communities.  Healthier Futures.
-          </h2>
+        <section id="mission" className="mission-section">
+          <h2 className="mission-title">Our Mission</h2>
+          <p className="mission-tagline">
+            Early Warnings. Safer Communities. Healthier Futures.
+          </p>
           <div className="mission-content">
             <p className="mission-paragraph">
-              We created AWARE because too many rural communities suffer silently from preventable water-borne diseases. Delayed reporting, weak connectivity, and slow responses cost precious time — and lives.
+              We created AWARE because too many rural communities suffer silently from preventable waterborne diseases. Delayed reporting, weak connectivity, and slow responses cost precious time and lives.
             </p>
             <p className="mission-paragraph">
               Our dream is to change that.
             </p>
             <p className="mission-paragraph">
-              AWARE brings together community reports, water-quality insights, and AI predictions to warn villages before outbreaks take hold.
+              AWARE brings together community reports, water quality insights, and AI predictions to warn villages before outbreaks take hold.
             </p>
             <p className="mission-paragraph">
               Built for ASHA workers, health officials, and every family that deserves safe water, AWARE is our step toward a future where early action replaces crisis, and awareness becomes protection.
+            </p>
+          </div>
+        </section>
+
+        <section id="methodology" className="methodology-section">
+          <h2 className="section-title">Methodology</h2>
+          <div className="methodology-content">
+            <p className="methodology-paragraph">
+              AWARE employs a comprehensive approach combining community reporting, sensor data, and artificial intelligence to predict and prevent waterborne disease outbreaks.
+            </p>
+            <p className="methodology-paragraph">
+              Our system integrates real-time water quality monitoring, community health reports from ASHA workers, and advanced machine learning algorithms to identify potential risks before they escalate into full-blown outbreaks.
+            </p>
+            <p className="methodology-paragraph">
+              By analyzing patterns in water contamination, disease symptoms, and environmental factors, AWARE provides early warnings that enable proactive intervention and save lives.
             </p>
           </div>
         </section>
@@ -92,7 +130,26 @@ function LandingPage() {
           </div>
         </div>
 
-        <SignedIn>
+        {isClerkConfigured ? (
+          <SignedIn>
+            <div className="emergency-request-section">
+              <div className="emergency-request-card">
+                <div className="emergency-request-content">
+                  <div className="emergency-request-icon">🚨</div>
+                  <div className="emergency-request-text">
+                    <h3 className="emergency-request-title">Report an Emergency</h3>
+                    <p className="emergency-request-description">
+                      Found a water quality issue? Report it immediately for urgent action.
+                    </p>
+                  </div>
+                </div>
+                <Link to="/emergency-request" className="emergency-request-button">
+                  Request Emergency Check
+                </Link>
+              </div>
+            </div>
+          </SignedIn>
+        ) : (
           <div className="emergency-request-section">
             <div className="emergency-request-card">
               <div className="emergency-request-content">
@@ -109,7 +166,27 @@ function LandingPage() {
               </Link>
             </div>
           </div>
-        </SignedIn>
+        )}
+
+        <section id="contact" className="contact-section">
+          <h2 className="section-title">Contact</h2>
+          <div className="contact-content">
+            <p className="contact-paragraph">
+              Have questions about AWARE or need support? We're here to help.
+            </p>
+            <p className="contact-paragraph">
+              For technical assistance, partnership inquiries, or general information, please reach out to our team.
+            </p>
+            <div className="contact-email">
+              <a href="mailto:reachout@teamaware.com" className="email-link">
+                reachout@teamaware.com
+              </a>
+            </div>
+            <p className="contact-paragraph">
+              Together, we can build healthier communities through early warning and proactive action.
+            </p>
+          </div>
+        </section>
       </div>
     </div>
     </>

@@ -33,6 +33,7 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/asha-report" element={<AshaReport />} />
           <Route path="/official-dashboard" element={<OfficialDashboard />} />
+          <Route path="/emergency-request" element={<EmergencyRequest />} />
         </Routes>
       </BrowserRouter>
     )
@@ -91,7 +92,16 @@ function App() {
         />
         <Route 
           path="/emergency-request" 
-          element={<EmergencyRequest />}
+          element={
+            <>
+              <SignedIn>
+                <EmergencyRequest />
+              </SignedIn>
+              <SignedOut>
+                <Navigate to="/" replace />
+              </SignedOut>
+            </>
+          }
         />
       </Routes>
     </BrowserRouter>
